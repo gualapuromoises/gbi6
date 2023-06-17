@@ -36,10 +36,10 @@ def restriccion(seq, enzima):
         longitud: largo de cada fragmento
     """
     frags = []
-    ni = seq.find(enzima)
-    frag1 = seq[:ni+len(enzima)]
-    frag2 = seq[ni+len(enzima):]
-    frags.append([frag1, len(frag1)])
-    frags.append([frag2, len(frag2)])
-
+    while seq.find(enzima) != -1:
+        ni = seq.find(enzima)
+        frag1 = seq[:ni+len(enzima)]
+        seq = seq[ni+len(enzima):]
+        frags.append([frag1, len(frag1)])
+    frags.append([seq, len(seq)])       
     return (frags)
