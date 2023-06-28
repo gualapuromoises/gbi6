@@ -1,0 +1,1396 @@
+
+PMID- 35162506
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20220215
+IS  - 1660-4601 (Electronic)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2022 Jan 28
+TI  - Dynamics of Microbial Communities during the Removal of Copper and Zinc in a
+      Sulfate-Reducing Bioreactor with a Limestone Pre-Column System.
+LID - 1484 [pii]
+LID - 10.3390/ijerph19031484 [doi]
+AB  - Biological treatment using sulfate-reducing bacteria (SRB) is a promising
+      approach to remediate acid rock drainage (ARD). Our purpose was to assess the
+      performance of a sequential system consisting of a limestone bed filter followed 
+      by a sulfate-reducing bioreactor treating synthetic ARD for 375 days and to
+      evaluate changes in microbial composition. The treatment system was effective in 
+      increasing the pH of the ARD from 2.7 to 7.5 and removed total Cu(II) and Zn(II) 
+      concentrations by up to 99.8% and 99.9%, respectively. The presence of sulfate in
+      ARD promoted sulfidogenesis and changed the diversity and structure of the
+      microbial communities. Methansarcina spp. was the most abundant amplicon sequence
+      variant (ASV); however, methane production was not detected. Biodiversity indexes
+      decreased over time with the bioreactor operation, whereas SRB abundance remained
+      stable. Desulfobacteraceae, Desulfocurvus, Desulfobulbaceae and Desulfovibrio
+      became more abundant, while Desulfuromonadales, Desulfotomaculum and Desulfobacca
+      decreased. Geobacter and Syntrophobacter were enriched with bioreactor operation 
+      time. At the beginning, ASVs with relative abundance <2% represented 65% of the
+      microbial community and 21% at the end of the study period. Thus, the results
+      show that the microbial community gradually lost diversity while the treatment
+      system was highly efficient in remediating ARD.
+FAU - Zambrano-Romero, Aracely
+AU  - Zambrano-Romero A
+AUID- ORCID: 0000-0003-1732-985X
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito USFQ, Diego de
+      Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+AD  - Colegio de Ciencias e Ingenieria, Instituto Biosfera, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+FAU - Ramirez-Villacis, Dario X
+AU  - Ramirez-Villacis DX
+AD  - Colegio de Ciencias e Ingenieria, Instituto Biosfera, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+AD  - Laboratorio de Biotecnologia Agricola y de Alimentos, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+FAU - Trueba, Gabriel
+AU  - Trueba G
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito USFQ, Diego de
+      Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+FAU - Sierra-Alvarez, Reyes
+AU  - Sierra-Alvarez R
+AD  - Department of Chemical and Environmental Engineering, The University of Arizona, 
+      Tucson, AZ 85721, USA.
+FAU - Leon-Reyes, Antonio
+AU  - Leon-Reyes A
+AUID- ORCID: 0000-0001-9142-9694
+AD  - Colegio de Ciencias e Ingenieria, Instituto Biosfera, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+AD  - Laboratorio de Biotecnologia Agricola y de Alimentos, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+FAU - Cardenas, Paul
+AU  - Cardenas P
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito USFQ, Diego de
+      Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+FAU - Ochoa-Herrera, Valeria
+AU  - Ochoa-Herrera V
+AUID- ORCID: 0000-0002-3826-2079
+AD  - Colegio de Ciencias e Ingenieria, Instituto Biosfera, Universidad San Francisco
+      de Quito USFQ, Diego de Robles y Via Interoceanica, Quito 17-1200-841, Ecuador.
+AD  - Escuela de Ingenieria, Ciencia y Tecnologia, Universidad del Rosario, Bogota
+      111221, Colombia.
+AD  - Department of Environmental Sciences and Engineering, Gillings School of Global
+      Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC 2759,
+      USA.
+LA  - eng
+GR  - Chanchelor s Grant 2016 and Institute of Microbiology grant 2017/Universidad San 
+      Francisco de Quito
+PT  - Journal Article
+DEP - 20220128
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+OTO - NOTNLM
+OT  - acid rock drainage
+OT  - anaerobic
+OT  - bioreactor
+OT  - community
+OT  - diversity
+OT  - dynamics
+OT  - metagenomics
+OT  - microbial
+OT  - sulfate-reducing
+EDAT- 2022/02/16 06:00
+MHDA- 2022/02/16 06:00
+CRDT- 2022/02/15 01:14
+PHST- 2021/12/15 00:00 [received]
+PHST- 2022/01/15 00:00 [revised]
+PHST- 2022/01/25 00:00 [accepted]
+PHST- 2022/02/15 01:14 [entrez]
+PHST- 2022/02/16 06:00 [pubmed]
+PHST- 2022/02/16 06:00 [medline]
+AID - ijerph19031484 [pii]
+AID - 10.3390/ijerph19031484 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Jan 28;19(3). pii: ijerph19031484. doi:
+      10.3390/ijerph19031484.
+
+PMID- 34990038
+OWN - NLM
+STAT- Publisher
+LR  - 20220106
+IS  - 1523-5378 (Electronic)
+IS  - 1083-4389 (Linking)
+DP  - 2022 Jan 6
+TI  - Saccharomyces boulardii CNCM I-745 supplementation modifies the fecal resistome
+      during Helicobacter pylori eradication therapy.
+PG  - e12870
+LID - 10.1111/hel.12870 [doi]
+AB  - BACKGROUND: The gut microbiota is a significant reservoir of antimicrobial
+      resistance genes (ARGs). The use and misuse of antimicrobials can select
+      multi-resistant bacteria and modify the repertoire of ARGs in the gut. Developing
+      effective interventions to manipulate the intestinal resistome would allow us to 
+      modify the antimicrobial resistance risk. MATERIALS AND METHODS: Applying shotgun
+      metagenomics, we compared the composition of fecal resistome from individuals
+      treated with triple therapy for Helicobacter pylori plus Saccharomyces boulardii 
+      CNCM-I 745 (Sb) versus triple antibiotherapy without S. boulardii (control)
+      before, after, and one month after treatments. DNA samples were sequenced on an
+      Illumina NovaSeq 6000 platform. Reads were trimmed and filtered for quality, and 
+      the reads classified as host genome were removed from further analysis. We used
+      the ResFinder database for resistome analysis and the web-based tool
+      ResistoXplorer and RStudio for graphical representation and statistical analysis.
+      RESULTS: We identified 641 unique ARGs in all fecal samples, conferring
+      resistance to 18 classes of antibiotics. The most prevalent ARGs found in at
+      least 90% of the samples before the treatments were against tetracyclines, MLS-B 
+      (macrolide, lincosamide, and streptogramin B), beta-lactams, and aminoglycosides.
+      Differential abundance analysis allowed the identification of ARGs significantly 
+      different between treatment groups. Thus, immediately after the treatments, the
+      abundance of ARGs that confer resistance to lincosamides, tetracyclines, MLS-B,
+      and two genes in the beta-lactam class (cfxA2 and cfxA3) was significantly lower 
+      in the group that received Sb than in the control group (edgeR, FDR <0.05).
+      CONCLUSION: Our study demonstrated that the addition of S. boulardii CNCM-I 745
+      to the conventional antibiotic eradication therapy for H. pylori reduced the
+      abundance of ARGs, particularly those genes that confer resistance to
+      lincosamides, tetracyclines, MLS-B, and a few genes in the beta-lactams class.
+CI  - (c) 2022 John Wiley & Sons Ltd.
+FAU - Cifuentes, Sara Gabriela
+AU  - Cifuentes SG
+AD  - Universidad San Francisco de Quito, Institute of Microbiology, Quito, Ecuador.
+FAU - Prado, Maria Belen
+AU  - Prado MB
+AD  - Universidad San Francisco de Quito, Institute of Microbiology, Quito, Ecuador.
+FAU - Fornasini, Marco
+AU  - Fornasini M
+AD  - Universidad Internacional del Ecuador, Facultad de Ciencias Medicas de la Salud y
+      la Vida, Quito, Ecuador.
+FAU - Cohen, Henry
+AU  - Cohen H
+AD  - Clinica de Gastroenterologia Prof. Dra. Carolina Olano, Facultad de Medicina,
+      Montevideo, Uruguay.
+FAU - Baldeon, Manuel Eduardo
+AU  - Baldeon ME
+AD  - Universidad Internacional del Ecuador, Facultad de Ciencias Medicas de la Salud y
+      la Vida, Quito, Ecuador.
+FAU - Cardenas, Paul Andres
+AU  - Cardenas PA
+AUID- ORCID: https://orcid.org/0000-0001-9626-4489
+AD  - Universidad San Francisco de Quito, Institute of Microbiology, Quito, Ecuador.
+LA  - eng
+GR  - Universidad San Francisco de Quito
+GR  - Biocodex research grants
+PT  - Journal Article
+DEP - 20220106
+PL  - England
+TA  - Helicobacter
+JT  - Helicobacter
+JID - 9605411
+SB  - IM
+OTO - NOTNLM
+OT  - Helicobacter pylori
+OT  - Saccharomyces boulardii CNCM I-745
+OT  - antibiotic resistance
+OT  - antibiotic resistance genes
+OT  - resistome
+EDAT- 2022/01/07 06:00
+MHDA- 2022/01/07 06:00
+CRDT- 2022/01/06 12:38
+PHST- 2021/11/24 00:00 [revised]
+PHST- 2021/09/20 00:00 [received]
+PHST- 2021/12/20 00:00 [accepted]
+PHST- 2022/01/06 12:38 [entrez]
+PHST- 2022/01/07 06:00 [pubmed]
+PHST- 2022/01/07 06:00 [medline]
+AID - 10.1111/hel.12870 [doi]
+PST - aheadofprint
+SO  - Helicobacter. 2022 Jan 6:e12870. doi: 10.1111/hel.12870.
+
+PMID- 34406852
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220112
+LR  - 20220112
+IS  - 2379-5042 (Electronic)
+IS  - 2379-5042 (Linking)
+VI  - 6
+IP  - 4
+DP  - 2021 Aug 25
+TI  - Proteorhodopsin Phototrophy in Antarctic Coastal Waters.
+PG  - e0052521
+LID - 10.1128/mSphere.00525-21 [doi]
+AB  - Microbial proton-pumping rhodopsins are considered the simplest strategy among
+      phototrophs to conserve energy from light. Proteorhodopsins are the most studied 
+      rhodopsins thus far because of their ubiquitous presence in the ocean, except in 
+      Antarctica, where they remain understudied. We analyzed proteorhodopsin abundance
+      and transcriptional activity in the Western Antarctic coastal seawaters.
+      Combining quantitative PCR (qPCR) and metagenomics, the relative abundance of
+      proteorhodopsin-bearing bacteria accounted on average for 17, 3.5, and 29.7% of
+      the bacterial community in Chile Bay (South Shetland Islands) during 2014, 2016, 
+      and 2017 summer-autumn, respectively. The abundance of proteorhodopsin-bearing
+      bacteria changed in relation to environmental conditions such as chlorophyll a
+      and temperature. Alphaproteobacteria, Gammaproteobacteria, and Flavobacteriia
+      were the main bacteria that transcribed the proteorhodopsin gene during day and
+      night. Although green light-absorbing proteorhodopsin genes were more abundant
+      than blue-absorbing ones, the latter were transcribed more intensely, resulting
+      in >50% of the proteorhodopsin transcripts during the day and night.
+      Flavobacteriia were the most abundant proteorhodopsin-bearing bacteria in the
+      metagenomes; however, Alphaproteobacteria and Gammaproteobacteria were more
+      represented in the metatranscriptomes, with qPCR quantification suggesting the
+      dominance of the active SAR11 clade. Our results show that
+      proteorhodopsin-bearing bacteria are prevalent in Antarctic coastal waters in
+      late austral summer and early autumn, and their ecological relevance needs to be 
+      elucidated to better understand how sunlight energy is used in this marine
+      ecosystem. IMPORTANCE Proteorhodopsin-bearing microorganisms in the Southern
+      Ocean have been overlooked since their discovery in 2000. The present study
+      identify taxonomy and quantify the relative abundance of proteorhodopsin-bearing 
+      bacteria and proteorhodopsin gene transcription in the West Antarctic Peninsula's
+      coastal waters. This information is crucial to understand better how sunlight
+      enters this marine environment through alternative ways unrelated to
+      chlorophyll-based strategies. The relative abundance of proteorhodopsin-bearing
+      bacteria seems to be related to environmental parameters (e.g., chlorophyll a,
+      temperature) that change yearly at the coastal water of the West Antarctic
+      Peninsula during the austral late summers and early autumns.
+      Proteorhodopsin-bearing bacteria from Antarctic coastal waters are potentially
+      able to exploit both the green and blue spectrum of sunlight and are a prevalent 
+      group during the summer in this polar environment.
+FAU - Cifuentes-Anticevic, Jeronimo
+AU  - Cifuentes-Anticevic J
+AD  - Department of Molecular Genetics and Microbiology, Pontificia Universidad
+      Catolica de Chilegrid.7870.8, Santiago, Chile.
+FAU - Alcaman-Arias, Maria E
+AU  - Alcaman-Arias ME
+AD  - Department of Oceanography, Universidad de Concepcion, Concepcion, Chile.
+AD  - Center for Climate and Resilience Research (CR)2, Santiago, Chile.
+AD  - Escuela de Medicina, Universidad Espiritu Santo, Samborondon, Ecuador.
+FAU - Alarcon-Schumacher, Tomas
+AU  - Alarcon-Schumacher T
+AD  - Department of Molecular Genetics and Microbiology, Pontificia Universidad
+      Catolica de Chilegrid.7870.8, Santiago, Chile.
+AD  - Max Planck Institute for Marine Microbiology, Bremen, Germany.
+FAU - Tamayo-Leiva, Javier
+AU  - Tamayo-Leiva J
+AD  - Department of Molecular Genetics and Microbiology, Pontificia Universidad
+      Catolica de Chilegrid.7870.8, Santiago, Chile.
+AD  - Center for Climate and Resilience Research (CR)2, Santiago, Chile.
+FAU - Pedros-Alio, Carlos
+AU  - Pedros-Alio C
+AD  - Departamento de Biologia de Sistemas, Centro Nacional de Biotecnologia (CSIC),
+      Madrid, Spain.
+FAU - Farias, Laura
+AU  - Farias L
+AD  - Department of Oceanography, Universidad de Concepcion, Concepcion, Chile.
+AD  - Center for Climate and Resilience Research (CR)2, Santiago, Chile.
+FAU - Diez, Beatriz
+AU  - Diez B
+AD  - Department of Molecular Genetics and Microbiology, Pontificia Universidad
+      Catolica de Chilegrid.7870.8, Santiago, Chile.
+AD  - Center for Climate and Resilience Research (CR)2, Santiago, Chile.
+AD  - Center for Genome Regulation (CRG), Santiago, Chile.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210818
+PL  - United States
+TA  - mSphere
+JT  - mSphere
+JID - 101674533
+RN  - 0 (Rhodopsins, Microbial)
+RN  - 0 (proteorhodopsin)
+RN  - 9009-81-8 (Rhodopsin)
+SB  - IM
+MH  - Alphaproteobacteria/chemistry/classification/genetics
+MH  - Antarctic Regions
+MH  - Ecosystem
+MH  - Flavobacteriaceae/chemistry/classification/genetics
+MH  - Metagenomics/*methods
+MH  - Microbiota/*genetics
+MH  - *Phototrophic Processes
+MH  - Phylogeny
+MH  - Rhodopsin/metabolism
+MH  - Rhodopsins, Microbial/analysis/*genetics
+MH  - Seawater/*microbiology
+PMC - PMC8386455
+OTO - NOTNLM
+OT  - *Antarctica
+OT  - *marine microbiology
+OT  - *metagenomics
+OT  - *metatranscriptomes
+OT  - *photoheterotrophy
+OT  - *proteorhodopsin
+OT  - *sunlight
+EDAT- 2021/08/19 06:00
+MHDA- 2022/01/13 06:00
+CRDT- 2021/08/18 17:14
+PHST- 2021/08/19 06:00 [pubmed]
+PHST- 2022/01/13 06:00 [medline]
+PHST- 2021/08/18 17:14 [entrez]
+AID - 10.1128/mSphere.00525-21 [doi]
+PST - ppublish
+SO  - mSphere. 2021 Aug 25;6(4):e0052521. doi: 10.1128/mSphere.00525-21. Epub 2021 Aug 
+      18.
+
+PMID- 33845910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210506
+LR  - 20210506
+IS  - 2049-2618 (Electronic)
+IS  - 2049-2618 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2021 Apr 12
+TI  - Microbial community characterization of shrimp survivors to AHPND challenge test 
+      treated with an effective shrimp probiotic (Vibrio diabolicus).
+PG  - 88
+LID - 10.1186/s40168-021-01043-8 [doi]
+AB  - BACKGROUND: Acute hepatopancreatic necrosis disease (AHPND) is an important
+      shrimp bacterial disease caused by some Vibrio species. The severity of the
+      impact of this disease on aquaculture worldwide has made it necessary to develop 
+      alternatives to prophylactic antibiotics use, such as the application of
+      probiotics. To assess the potential to use probiotics in order to limit the
+      detrimental effects of AHNPD, we evaluated the effect of the ILI strain, a Vibrio
+      sp. bacterium and efficient shrimp probiotic, using metabarcoding (16S rRNA gene)
+      on the gastrointestinal microbiota of shrimp after being challenged with
+      AHPND-causing V. parahaemolyticus. RESULTS: We showed how the gastrointestinal
+      microbiome of shrimp varied between healthy and infected organisms. Nevertheless,
+      a challenge of working with AHPND-causing Vibrio pathogens and Vibrio-related
+      bacteria as probiotics is the potential risk of the probiotic strain becoming
+      pathogenic. Consequently, we evaluated whether ILI strain can acquire the plasmid
+      pV-AHPND via horizontal transfer and further cause the disease in shrimp.
+      Conjugation assays were performed resulting in a high frequency (70%) of colonies
+      harboring the pv-AHPND. However, no shrimp mortality was observed when
+      transconjugant colonies of the ILI strain were used in a challenge test using
+      healthy shrimp. We sequenced the genome of the ILI strain and performed
+      comparative genomics analyses using AHPND and non-AHPND Vibrio isolates. Using
+      available phylogenetic and phylogenomics analyses, we reclassified the ILI strain
+      as Vibrio diabolicus. In summary, this work represents an effort to study the
+      role that probiotics play in the normal gastrointestinal shrimp microbiome and in
+      AHPND-infected shrimp, showing that the ILI probiotic was able to control
+      pathogenic bacterial populations in the host's gastrointestinal tract and
+      stimulate the shrimp's survival. The identification of probiotic bacterial
+      species that are effective in the host's colonization is important to promote
+      animal health and prevent disease. CONCLUSIONS: This study describes probiotic
+      bacteria capable of controlling pathogenic populations of bacteria in the shrimp 
+      gastrointestinal tract. Our work provides new insights into the complex dynamics 
+      between shrimp and the changes in the microbiota. It also addresses the practical
+      application of probiotics to solve problems with pathogens that cause high
+      mortality-rate in shrimp farming around the world. Video Abstract.
+FAU - Restrepo, Leda
+AU  - Restrepo L
+AD  - Department of Biological Sciences, Universidad de los Andes, Bogota, Colombia.
+AD  - Max Planck Tandem Group in Computational Biology, Universidad de los Andes,
+      Bogota, Colombia.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Bajana, Leandro
+AU  - Bajana L
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Betancourt, Irma
+AU  - Betancourt I
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Rodriguez, Jenny
+AU  - Rodriguez J
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ciencias de la Vida,
+      FCV, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O. Box 09-01-5863,
+      Guayaquil, Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador. bbayot@espol.edu.ec.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ingenieria Maritima 
+      y Ciencias del Mar, FIMCM, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O.
+      Box 09-01-5863, Guayaquil, Ecuador. bbayot@espol.edu.ec.
+FAU - Reyes, Alejandro
+AU  - Reyes A
+AUID- ORCID: 0000-0003-2907-3265
+AD  - Department of Biological Sciences, Universidad de los Andes, Bogota, Colombia.
+      a.reyes@uniandes.edu.co.
+AD  - Max Planck Tandem Group in Computational Biology, Universidad de los Andes,
+      Bogota, Colombia. a.reyes@uniandes.edu.co.
+AD  - Center for Genome Sciences and Systems Biology, Department of Pathology and
+      Immunology, Washington University in Saint Louis, Saint Louis, MO, USA.
+      a.reyes@uniandes.edu.co.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Video-Audio Media
+DEP - 20210412
+PL  - England
+TA  - Microbiome
+JT  - Microbiome
+JID - 101615147
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - Vibrio diabolicus
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - *Microbiota
+MH  - Necrosis
+MH  - *Penaeidae
+MH  - Phylogeny
+MH  - *Probiotics
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Survivors
+MH  - Vibrio
+MH  - *Vibrio parahaemolyticus/genetics
+PMC - PMC8042889
+OTO - NOTNLM
+OT  - *Acute hepatopancreatic necrosis disease (AHPND)
+OT  - *Comparative genomics
+OT  - *Horizontal gene transfer (HGT)
+OT  - *Metagenomics
+OT  - *Microbiome
+OT  - *Probiotics
+OT  - *Vibrio diabolicus
+EDAT- 2021/04/14 06:00
+MHDA- 2021/05/07 06:00
+CRDT- 2021/04/13 05:38
+PHST- 2020/12/07 00:00 [received]
+PHST- 2021/03/05 00:00 [accepted]
+PHST- 2021/04/13 05:38 [entrez]
+PHST- 2021/04/14 06:00 [pubmed]
+PHST- 2021/05/07 06:00 [medline]
+AID - 10.1186/s40168-021-01043-8 [doi]
+AID - 10.1186/s40168-021-01043-8 [pii]
+PST - epublish
+SO  - Microbiome. 2021 Apr 12;9(1):88. doi: 10.1186/s40168-021-01043-8.
+
+PMID- 33256173
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201226
+IS  - 2076-2607 (Print)
+IS  - 2076-2607 (Linking)
+VI  - 8
+IP  - 12
+DP  - 2020 Nov 26
+TI  - Comparative Metagenomics of Palearctic and Neotropical Avian Cloacal Viromes
+      Reveal Geographic Bias in Virus Discovery.
+LID - E1869 [pii]
+LID - 10.3390/microorganisms8121869 [doi]
+AB  - Our understanding about viruses carried by wild animals is still scarce. The
+      viral diversity of wildlife may be best described with discovery-driven
+      approaches to the study of viral diversity that broaden research efforts towards 
+      non-canonical hosts and remote geographic regions. Birds have been key organisms 
+      in the transmission of viruses causing important diseases, and wild birds are
+      threatened by viral spillovers associated with human activities. However, our
+      knowledge of the avian virome may be biased towards poultry and highly pathogenic
+      diseases. We describe and compare the fecal virome of two passerine-dominated
+      bird assemblages sampled in a remote Neotropical rainforest in French Guiana
+      (Nouragues Natural Reserve) and a Mediterranean forest in central Spain (La
+      Herreria). We used metagenomic data to quantify the degree of functional and
+      genetic novelty of viruses recovered by examining if the similarity of the
+      contigs we obtained to reference sequences differed between both locations. In
+      general, contigs from Nouragues were significantly less similar to viruses in
+      databases than contigs from La Herreria using Blastn but not for Blastx,
+      suggesting that pristine regions harbor a yet unknown viral diversity with
+      genetically more singular viruses than more studied areas. Additionally, we
+      describe putative novel viruses of the families Picornaviridae, Reoviridae and
+      Hepeviridae. These results highlight the importance of wild animals and remote
+      regions as sources of novel viruses that substantially broaden the current
+      knowledge of the global diversity of viruses.
+FAU - Truchado, Daniel A
+AU  - Truchado DA
+AUID- ORCID: 0000-0003-0448-0112
+AD  - Department of Genetics, Physiology and Microbiology, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+AD  - Department of Biodiversity, Ecology and Evolution, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+FAU - Llanos-Garrido, Alejandro
+AU  - Llanos-Garrido A
+AD  - Department of Organismic and Evolutionary Biology, Faculty of Arts & Sciences,
+      Harvard University, 38 Oxford St, Cambridge, MA 02138, USA.
+FAU - Oropesa-Olmedo, David A
+AU  - Oropesa-Olmedo DA
+AD  - Department of Genetics, Physiology and Microbiology, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+FAU - Cerrada, Belen
+AU  - Cerrada B
+AD  - Department of Genetics, Physiology and Microbiology, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+FAU - Cea, Pablo
+AU  - Cea P
+AD  - Department of Genetics, Physiology and Microbiology, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+FAU - Moens, Michael A J
+AU  - Moens MAJ
+AD  - Fundacion de Conservacion Jocotoco, Lizardo Garcia E9-104 y Andres Xaura, Quito
+      170143, Ecuador.
+FAU - Gomez-Lucia, Esperanza
+AU  - Gomez-Lucia E
+AUID- ORCID: 0000-0002-5261-0586
+AD  - Department of Animal Health, Faculty of Veterinary Medicine, Complutense
+      University of Madrid, Avda. Puerta de Hierro s/n, 28040 Madrid, Spain.
+FAU - Domenech, Ana
+AU  - Domenech A
+AUID- ORCID: 0000-0001-8074-7857
+AD  - Department of Animal Health, Faculty of Veterinary Medicine, Complutense
+      University of Madrid, Avda. Puerta de Hierro s/n, 28040 Madrid, Spain.
+FAU - Mila, Borja
+AU  - Mila B
+AD  - National Museum of Natural Sciences, Spanish National Research Council (CSIC),
+      28006 Madrid, Spain.
+FAU - Perez-Tris, Javier
+AU  - Perez-Tris J
+AUID- ORCID: 0000-0001-5535-3100
+AD  - Department of Biodiversity, Ecology and Evolution, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+FAU - Cadar, Daniel
+AU  - Cadar D
+AUID- ORCID: 0000-0002-8063-2766
+AD  - Bernhard Nocht Institute for Tropical Medicine, WHO Collaborating Centre for
+      Arbovirus and Haemorrhagic Fever Reference and Research, National Reference
+      Centre for Tropical Infectious Diseases, 20359 Hamburg, Germany.
+FAU - Benitez, Laura
+AU  - Benitez L
+AUID- ORCID: 0000-0001-9737-3572
+AD  - Department of Genetics, Physiology and Microbiology, Faculty of Biology,
+      Complutense University of Madrid, Jose Antonio Novais, 12, 28040 Madrid, Spain.
+LA  - eng
+GR  - CGL2013-41642-P/BOS/Spanish National Research Agency
+GR  - CGL2017-82117-P/Spanish National Research Agency
+GR  - CEBA2015-TROCSYMB/ANR
+GR  - CEBA:ANR-10-LABX-25-01/ANR
+GR  - CT27/16-CT28/16/Complutense University of Madrid
+PT  - Journal Article
+DEP - 20201126
+PL  - Switzerland
+TA  - Microorganisms
+JT  - Microorganisms
+JID - 101625893
+PMC - PMC7761369
+OTO - NOTNLM
+OT  - Neotropical birds
+OT  - animal viruses
+OT  - avian virome
+OT  - biodiscovery
+OT  - remote areas
+OT  - wildlife virome
+EDAT- 2020/12/02 06:00
+MHDA- 2020/12/02 06:01
+CRDT- 2020/12/01 01:11
+PHST- 2020/10/13 00:00 [received]
+PHST- 2020/11/20 00:00 [revised]
+PHST- 2020/11/24 00:00 [accepted]
+PHST- 2020/12/01 01:11 [entrez]
+PHST- 2020/12/02 06:00 [pubmed]
+PHST- 2020/12/02 06:01 [medline]
+AID - microorganisms8121869 [pii]
+AID - 10.3390/microorganisms8121869 [doi]
+PST - epublish
+SO  - Microorganisms. 2020 Nov 26;8(12). pii: microorganisms8121869. doi:
+      10.3390/microorganisms8121869.
+
+PMID- 31585992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200821
+LR  - 20200821
+IS  - 1098-5336 (Electronic)
+IS  - 0099-2240 (Linking)
+VI  - 85
+IP  - 24
+DP  - 2019 Dec 15
+TI  - Metagenomic Signatures of Gut Infections Caused by Different Escherichia coli
+      Pathotypes.
+LID - e01820-19 [pii]
+LID - 10.1128/AEM.01820-19 [doi]
+AB  - Escherichia coli is a leading contributor to infectious diarrhea and child
+      mortality worldwide, but it remains unknown how alterations in the gut microbiome
+      vary for distinct E. coli pathotype infections and whether these signatures can
+      be used for diagnostic purposes. Further, the majority of enteric diarrheal
+      infections are not diagnosed with respect to their etiological agent(s) due to
+      technical challenges. To address these issues, we devised a novel approach that
+      combined traditional, isolate-based and molecular-biology techniques with
+      metagenomics analysis of stool samples and epidemiological data. Application of
+      this pipeline to children enrolled in a case-control study of diarrhea in Ecuador
+      showed that, in about half of the cases where an E. coli pathotype was detected
+      by culture and PCR, E. coli was likely not the causative agent based on the
+      metagenome-derived low relative abundance, the level of clonality, and/or the
+      virulence gene content. Our results also showed that diffuse adherent E. coli
+      (DAEC), a pathotype that is generally underrepresented in previous studies of
+      diarrhea and thus, thought not to be highly virulent, caused several small-scale 
+      diarrheal outbreaks across a rural to urban gradient in Ecuador. DAEC infections 
+      were uniquely accompanied by coelution of large amounts of human DNA and
+      conferred significant shifts in the gut microbiome composition relative to
+      controls or infections caused by other E. coli pathotypes. Our study shows that
+      diarrheal infections can be efficiently diagnosed for their etiological agent and
+      categorized based on their effects on the gut microbiome using metagenomic tools,
+      which opens new possibilities for diagnostics and treatment.IMPORTANCE E. coli
+      infectious diarrhea is an important contributor to child mortality worldwide.
+      However, diagnosing and thus treating E. coli infections remain challenging due
+      to technical and other reasons associated with the limitations of the traditional
+      culture-based techniques and the requirement to apply Koch's postulates. In this 
+      study, we integrated traditional microbiology techniques with metagenomics and
+      epidemiological data in order to identify cases of diarrhea where E. coli was
+      most likely the causative disease agent and evaluate specific signatures in the
+      disease-state gut microbiome that distinguish between diffuse adherent,
+      enterotoxigenic, and enteropathogenic E. coli pathotypes. Therefore, our
+      methodology and results should be highly relevant for diagnosing and treating
+      diarrheal infections and have important applications in public health.
+CI  - Copyright (c) 2019 American Society for Microbiology.
+FAU - Pena-Gonzalez, Angela
+AU  - Pena-Gonzalez A
+AUID- ORCID: 0000-0003-0684-8179
+AD  - School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia,
+      USA.
+FAU - Soto-Giron, Maria J
+AU  - Soto-Giron MJ
+AD  - School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia,
+      USA.
+FAU - Smith, Shanon
+AU  - Smith S
+AD  - Department of Environmental Health, Rollins School of Public Health, Emory
+      University, Atlanta, Georgia, USA.
+FAU - Sistrunk, Jeticia
+AU  - Sistrunk J
+AD  - Department of Environmental Health, Rollins School of Public Health, Emory
+      University, Atlanta, Georgia, USA.
+FAU - Montero, Lorena
+AU  - Montero L
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Paez, Maritza
+AU  - Paez M
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Ortega, Estefania
+AU  - Ortega E
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Hatt, Janet K
+AU  - Hatt JK
+AD  - School of Civil and Environmental Engineering, Georgia Institute of Technology,
+      Atlanta, Georgia, USA.
+FAU - Cevallos, William
+AU  - Cevallos W
+AD  - Centro de Biomedicina, Universidad Central del Ecuador, Quito, Ecuador.
+FAU - Trueba, Gabriel
+AU  - Trueba G
+AUID- ORCID: 0000-0003-2617-9021
+AD  - Instituto de Microbiologia, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Levy, Karen
+AU  - Levy K
+AUID- ORCID: 0000-0002-0968-9401
+AD  - Department of Environmental Health, Rollins School of Public Health, Emory
+      University, Atlanta, Georgia, USA Karen.levy@emory.edu
+      kostas.konstantinidis@gatech.edu.
+FAU - Konstantinidis, Konstantinos T
+AU  - Konstantinidis KT
+AD  - School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia,
+      USA Karen.levy@emory.edu kostas.konstantinidis@gatech.edu.
+AD  - School of Civil and Environmental Engineering, Georgia Institute of Technology,
+      Atlanta, Georgia, USA.
+LA  - eng
+GR  - K01 AI103544/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191127
+PL  - United States
+TA  - Appl Environ Microbiol
+JT  - Applied and environmental microbiology
+JID - 7605801
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - 0 (Virulence Factors)
+SB  - IM
+MH  - Case-Control Studies
+MH  - Child
+MH  - Child, Preschool
+MH  - Diarrhea/microbiology
+MH  - Disease Outbreaks
+MH  - Ecuador
+MH  - Escherichia coli/genetics/isolation & purification/*metabolism/pathogenicity
+MH  - Escherichia coli Infections/*microbiology
+MH  - Feces/microbiology
+MH  - Gastrointestinal Microbiome/genetics/*physiology
+MH  - Humans
+MH  - Infant
+MH  - *Metagenome
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Virulence/genetics
+MH  - Virulence Factors/genetics
+PMC - PMC6881795
+OTO - NOTNLM
+OT  - *16S rRNA
+OT  - *Ecuador
+OT  - *Escherichia coli
+OT  - *clinical metagenomics
+OT  - *gut microbiome
+OT  - *infectious diarrhea
+OT  - *metagenomics
+OT  - *pathotypes
+EDAT- 2019/10/06 06:00
+MHDA- 2020/08/22 06:00
+CRDT- 2019/10/06 06:00
+PHST- 2019/08/08 00:00 [received]
+PHST- 2019/09/30 00:00 [accepted]
+PHST- 2019/10/06 06:00 [pubmed]
+PHST- 2020/08/22 06:00 [medline]
+PHST- 2019/10/06 06:00 [entrez]
+AID - AEM.01820-19 [pii]
+AID - 10.1128/AEM.01820-19 [doi]
+PST - epublish
+SO  - Appl Environ Microbiol. 2019 Nov 27;85(24). pii: AEM.01820-19. doi:
+      10.1128/AEM.01820-19. Print 2019 Dec 15.
+
+PMID- 30248857
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181221
+LR  - 20181221
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 645
+DP  - 2018 Dec 15
+TI  - Quito's virome: Metagenomic analysis of viral diversity in urban streams of
+      Ecuador's capital city.
+PG  - 1334-1343
+LID - S0048-9697(18)32705-0 [pii]
+LID - 10.1016/j.scitotenv.2018.07.213 [doi]
+AB  - In Quito, the microbiological contamination of surface water represents a public 
+      health problem, mainly due to the lack of sewage treatment from urban wastewater.
+      Contaminated water contributes to the transmission of many enteric pathogens
+      through direct consumption, agricultural and recreational use. Among the
+      different pathogens present in urban discharges, viruses play an important role
+      on disease, being causes of gastroenteritis, hepatitis, meningitis, respiratory
+      infections, among others. This study analyzes the presence of viruses in highly
+      impacted surface waters of urban rivers using next-generation sequencing
+      techniques. Three representative locations of urban rivers, receiving the main
+      discharges from Quito sewerage system, were selected. Water samples of 500mL were
+      concentrated by skimmed-milk flocculation method and the viral nucleic acid was
+      extracted and processed for high throughput sequencing using Illumina MiSeq. The 
+      results yielded very relevant data of circulating viruses in the capital of
+      Ecuador. A total of 29 viral families were obtained, of which 26 species were
+      associated with infections in humans. Among the 26 species identified, several
+      were related to gastroenteritis: Human Mastadenovirus F, Bufavirus, Sapporovirus,
+      Norwalk virus and Mamastrovirus 1. Also detected were: Gammapapillomavirus
+      associated with skin infections, Polyomavirus 1 related to cases of kidney
+      damage, Parechovirus A described as cause of neonatal sepsis with neurological
+      affectations and Hepatovirus A, the etiologic agent of Hepatitis A. Other
+      emergent viruses identified, of which its pathogenicity remains to be fully
+      clarified, were: Bocavirus, Circovirus, Aichi Virus and Cosavirus. The wide
+      diversity of species detected through metagenomics gives us key information about
+      the public health risks present in the urban rivers of Quito. In addition, this
+      study describes for the first time the presence of important infectious agents
+      not previously reported in Ecuador and with very little reports in Latin America.
+CI  - Copyright (c) 2018 Elsevier B.V. All rights reserved.
+FAU - Guerrero-Latorre, Laura
+AU  - Guerrero-Latorre L
+AD  - Grupo de investigacion Biodiversidad, Medio Ambiente y Salud (BIOMAS), Facultad
+      de Ingenierias y Ciencias Aplicadas (FICA), Ingenieria en Biotecnologia,
+      Universidad de las Americas, Quito, Ecuador. Electronic address:
+      laura.guerrero.latorre@gmail.com.
+FAU - Romero, Brigette
+AU  - Romero B
+AD  - Grupo de investigacion Biodiversidad, Medio Ambiente y Salud (BIOMAS), Facultad
+      de Ingenierias y Ciencias Aplicadas (FICA), Ingenieria en Biotecnologia,
+      Universidad de las Americas, Quito, Ecuador. Electronic address:
+      bmromero@udlanet.ec.
+FAU - Bonifaz, Edison
+AU  - Bonifaz E
+AD  - Grupo de investigacion Biodiversidad, Medio Ambiente y Salud (BIOMAS), Facultad
+      de Ingenierias y Ciencias Aplicadas (FICA), Ingenieria en Biotecnologia,
+      Universidad de las Americas, Quito, Ecuador. Electronic address:
+      ebonifaz@udlanet.ec.
+FAU - Timoneda, Natalia
+AU  - Timoneda N
+AD  - Laboratory of Virus Contaminants of Water and Food, Department of Genetics,
+      Microbiology and Statistics, University of Barcelona, Barcelona, Catalonia,
+      Spain.
+FAU - Rusinol, Marta
+AU  - Rusinol M
+AD  - Laboratory of Virus Contaminants of Water and Food, Department of Genetics,
+      Microbiology and Statistics, University of Barcelona, Barcelona, Catalonia,
+      Spain. Electronic address: mrusinol@ub.edu.
+FAU - Girones, Rosina
+AU  - Girones R
+AD  - Laboratory of Virus Contaminants of Water and Food, Department of Genetics,
+      Microbiology and Statistics, University of Barcelona, Barcelona, Catalonia,
+      Spain. Electronic address: rgirones@ub.edu.
+FAU - Rios-Touma, Blanca
+AU  - Rios-Touma B
+AD  - Grupo de investigacion Biodiversidad, Medio Ambiente y Salud (BIOMAS), Facultad
+      de Ingenierias y Ciencias Aplicadas (FICA), Ingenieria Ambiental, Universidad de 
+      las Americas, Quito, Ecuador. Electronic address: blanca.rios@udla.edu.ec.
+LA  - eng
+PT  - Journal Article
+DEP - 20180723
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+SB  - IM
+MH  - Cities
+MH  - Ecuador
+MH  - *Environmental Monitoring
+MH  - Humans
+MH  - Metagenomics
+MH  - Rivers/*virology
+MH  - Water Pollution/*analysis/statistics & numerical data
+OTO - NOTNLM
+OT  - Human viruses
+OT  - Public health
+OT  - Surface water quality
+OT  - Urban river
+OT  - Virome
+EDAT- 2018/09/27 06:00
+MHDA- 2018/12/24 06:00
+CRDT- 2018/09/26 06:00
+PHST- 2018/05/25 00:00 [received]
+PHST- 2018/07/16 00:00 [revised]
+PHST- 2018/07/16 00:00 [accepted]
+PHST- 2018/09/26 06:00 [entrez]
+PHST- 2018/09/27 06:00 [pubmed]
+PHST- 2018/12/24 06:00 [medline]
+AID - S0048-9697(18)32705-0 [pii]
+AID - 10.1016/j.scitotenv.2018.07.213 [doi]
+PST - ppublish
+SO  - Sci Total Environ. 2018 Dec 15;645:1334-1343. doi:
+      10.1016/j.scitotenv.2018.07.213. Epub 2018 Jul 23.
+
+PMID- 29551526
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181217
+LR  - 20181217
+IS  - 1095-9513 (Electronic)
+IS  - 1055-7903 (Linking)
+VI  - 125
+DP  - 2018 Aug
+TI  - Diversity within diversity: Parasite species richness in poison frogs assessed by
+      transcriptomics.
+PG  - 40-50
+LID - S1055-7903(18)30084-8 [pii]
+LID - 10.1016/j.ympev.2018.03.015 [doi]
+AB  - Symbionts (e.g., endoparasites and commensals) play an integral role in their
+      host's ecology, yet in many cases their diversity is likely underestimated.
+      Although endoparasites are traditionally characterized using morphology,
+      sequences of conserved genes, and shotgun metagenomics, host transcriptomes
+      constitute an underused resource to identify these organisms' diversity. By
+      isolating non-host transcripts from host transcriptomes, individual host tissues 
+      can now simultaneously reveal their endoparasite species richness (i.e., number
+      of different taxa) and provide insights into parasite gene expression. These
+      approaches can be used in host taxa whose endoparasites are mostly unknown, such 
+      as those of tropical amphibians. Here, we focus on the poison frogs
+      (Dendrobatidae) as hosts, which are a Neotropical clade known for their bright
+      coloration and defensive alkaloids. These toxins are an effective protection
+      against vertebrate predators (e.g., snakes and birds), bacteria, and skin-biting 
+      ectoparasites (e.g., mosquitoes); however, little is known about their deterrence
+      against eukaryotic endoparasites. With de novo transcriptomes of dendrobatids, we
+      developed a bioinformatics pipeline for endoparasite identification that uses
+      host annotated RNA-seq data and set of a priori parasite taxonomic terms, which
+      are used to mine for specific endoparasites. We found a large community of
+      helminths and protozoans that were mostly restricted to the digestive tract and a
+      few systemic parasites (e.g., Trypanosoma). Contrary to our expectations, all
+      dendrobatid frogs regardless of the presence of alkaloid defenses have
+      endoparasites, with their highest species richness located in the frog digestive 
+      tract. Some of these organisms (e.g., roundworms) might prove to be generalists, 
+      as they were not found to be co-diversifying with their frog hosts. We propose
+      that endoparasites may escape poison frogs' chemical defenses by colonizing
+      tissues with fewer alkaloids than the frog's skin, where most toxins are stored.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Santos, Juan C
+AU  - Santos JC
+AD  - Department of Biological Sciences, St. John's University, United States.
+      Electronic address: santosj@stjohns.edu.
+FAU - Tarvin, Rebecca D
+AU  - Tarvin RD
+AD  - Integrative Biology, University of Texas at Austin, United States.
+FAU - O'Connell, Lauren A
+AU  - O'Connell LA
+AD  - Department of Biology, Stanford University, United States.
+FAU - Blackburn, David C
+AU  - Blackburn DC
+AD  - Florida Museum of Natural History, United States.
+FAU - Coloma, Luis A
+AU  - Coloma LA
+AD  - Centro Jambatu de Investigacion y Conservacion de Anfibios, Fundacion Otonga,
+      Ecuador; Universidad Regional Amazonica Ikiam, Ecuador. Electronic address:
+      infraguttatus@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20180315
+PL  - United States
+TA  - Mol Phylogenet Evol
+JT  - Molecular phylogenetics and evolution
+JID - 9304400
+RN  - 0 (Poisons)
+SB  - IM
+MH  - Animals
+MH  - Anura/*genetics/*parasitology
+MH  - Biodiversity
+MH  - *Gene Expression Profiling
+MH  - Genetic Speciation
+MH  - Host-Parasite Interactions/genetics
+MH  - Parasites/*physiology
+MH  - Phylogeny
+MH  - Poisons
+MH  - Species Specificity
+MH  - Transcriptome/genetics
+OTO - NOTNLM
+OT  - *Amphibians
+OT  - *Aposematism
+OT  - *Co-diversification
+OT  - *Parasitology
+OT  - *Transcriptomics
+EDAT- 2018/03/20 06:00
+MHDA- 2018/12/18 06:00
+CRDT- 2018/03/20 06:00
+PHST- 2018/02/09 00:00 [received]
+PHST- 2018/03/10 00:00 [accepted]
+PHST- 2018/03/20 06:00 [pubmed]
+PHST- 2018/12/18 06:00 [medline]
+PHST- 2018/03/20 06:00 [entrez]
+AID - S1055-7903(18)30084-8 [pii]
+AID - 10.1016/j.ympev.2018.03.015 [doi]
+PST - ppublish
+SO  - Mol Phylogenet Evol. 2018 Aug;125:40-50. doi: 10.1016/j.ympev.2018.03.015. Epub
+      2018 Mar 15.
+
+PMID- 27825829
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171127
+LR  - 20180228
+IS  - 1873-1899 (Electronic)
+IS  - 0734-9750 (Linking)
+VI  - 34
+IP  - 8
+DP  - 2016 Dec
+TI  - Metagenomics: Probing pollutant fate in natural and engineered ecosystems.
+PG  - 1413-1426
+LID - S0734-9750(16)30132-X [pii]
+LID - 10.1016/j.biotechadv.2016.10.006 [doi]
+AB  - Polluted environments are a reservoir of microbial species able to degrade or to 
+      convert pollutants to harmless compounds. The proper management of microbial
+      resources requires a comprehensive characterization of their genetic pool to
+      assess the fate of contaminants and increase the efficiency of bioremediation
+      processes. Metagenomics offers appropriate tools to describe microbial
+      communities in their whole complexity without lab-based cultivation of individual
+      strains. After a decade of use of metagenomics to study microbiomes, the
+      scientific community has made significant progress in this field. In this review,
+      we survey the main steps of metagenomics applied to environments contaminated
+      with organic compounds or heavy metals. We emphasize technical solutions proposed
+      to overcome encountered obstacles. We then compare two metagenomic approaches,
+      i.e. library-based targeted metagenomics and direct sequencing of metagenomes. In
+      the former, environmental DNA is cloned inside a host, and then clones of
+      interest are selected based on (i) their expression of biodegradative functions
+      or (ii) sequence homology with probes and primers designed from relevant, already
+      known sequences. The highest score for the discovery of novel genes and
+      degradation pathways has been achieved so far by functional screening of large
+      clone libraries. On the other hand, direct sequencing of metagenomes without a
+      cloning step has been more often applied to polluted environments for
+      characterization of the taxonomic and functional composition of microbial
+      communities and their dynamics. In this case, the analysis has focused on 16S
+      rRNA genes and marker genes of biodegradation. Advances in next generation
+      sequencing and in bioinformatic analysis of sequencing data have opened up new
+      opportunities for assessing the potential of biodegradation by microbes, but
+      annotation of collected genes is still hampered by a limited number of available 
+      reference sequences in databases. Although metagenomics is still facing technical
+      and computational challenges, our review of the recent literature highlights its 
+      value as an aid to efficiently monitor the clean-up of contaminated environments 
+      and develop successful strategies to mitigate the impact of pollutants on
+      ecosystems.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+FAU - Bouhajja, Emna
+AU  - Bouhajja E
+AD  - Laboratoire de Genie Biologique, Earth and Life Institute, Universite Catholique 
+      de Louvain, Place Croix du Sud 2, boite L7.05.19, 1348 Louvain-la-Neuve, Belgium.
+FAU - Agathos, Spiros N
+AU  - Agathos SN
+AD  - Laboratoire de Genie Biologique, Earth and Life Institute, Universite Catholique 
+      de Louvain, Place Croix du Sud 2, boite L7.05.19, 1348 Louvain-la-Neuve, Belgium;
+      School of Life Sciences and Biotechnology, Yachay Tech University, 100119 San
+      Miguel de Urcuqui, Ecuador.
+FAU - George, Isabelle F
+AU  - George IF
+AD  - Universite Libre de Bruxelles, Laboratoire d'Ecologie des Systemes Aquatiques,
+      Campus de la Plaine CP 221, Boulevard du Triomphe, 1050 Brussels, Belgium.
+      Electronic address: igeorge@ulb.ac.be.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20161105
+PL  - England
+TA  - Biotechnol Adv
+JT  - Biotechnology advances
+JID - 8403708
+RN  - 0 (Environmental Pollutants)
+SB  - IM
+MH  - *Biodegradation, Environmental
+MH  - *Ecosystem
+MH  - *Environmental Pollutants/analysis/chemistry/isolation & purification/metabolism
+MH  - Metabolic Networks and Pathways/genetics
+MH  - Metagenome/*genetics
+MH  - *Metagenomics
+MH  - Microbial Consortia/*genetics
+OTO - NOTNLM
+OT  - *Catabolic genes
+OT  - *Degradation pathways
+OT  - *Metagenomics
+OT  - *Molecular microbial ecology
+OT  - *Pollutant biodegradation
+EDAT- 2016/11/09 06:00
+MHDA- 2017/11/29 06:00
+CRDT- 2016/11/10 06:00
+PHST- 2016/03/14 00:00 [received]
+PHST- 2016/10/01 00:00 [revised]
+PHST- 2016/10/12 00:00 [accepted]
+PHST- 2016/11/09 06:00 [pubmed]
+PHST- 2017/11/29 06:00 [medline]
+PHST- 2016/11/10 06:00 [entrez]
+AID - S0734-9750(16)30132-X [pii]
+AID - 10.1016/j.biotechadv.2016.10.006 [doi]
+PST - ppublish
+SO  - Biotechnol Adv. 2016 Dec;34(8):1413-1426. doi: 10.1016/j.biotechadv.2016.10.006. 
+      Epub 2016 Nov 5.
+
+PMID- 27785541
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170117
+LR  - 20170117
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 101
+IP  - 2
+DP  - 2017 Jan
+TI  - Identification of novel toluene monooxygenase genes in a hydrocarbon-polluted
+      sediment using sequence- and function-based screening of metagenomic libraries.
+PG  - 797-808
+LID - 10.1007/s00253-016-7934-5 [doi]
+AB  - The microbial potential for toluene degradation within sediments from a tar
+      oil-contaminated site in Flingern, Germany, was assessed using a metagenomic
+      approach. High molecular weight environmental DNA from contaminated sediments was
+      extracted, purified, and cloned into fosmid and BAC vectors and transformed into 
+      Escherichia coli. The fosmid library was screened by hybridization with a PCR
+      amplicon of the alpha-subunit of the toluene 4-monooxygenase gene to identify
+      genes and pathways encoding toluene degradation. Fourteen clones were recovered
+      from the fosmid library, among which 13 were highly divergent from known tmoA
+      genes and several had the closest relatives among Acinetobacter species. The BAC 
+      library was transferred to the heterologous hosts Cupriavidus metallidurans
+      (phylum Proteobacteria) and Edaphobacter aggregans (phylum Acidobacteria). The
+      resulting libraries were screened for expression of toluene degradation in the
+      non-degradative hosts. From expression in C. metallidurans, three novel toluene
+      monooxygenase-encoding operons were identified that were located on IncP1
+      plasmids. The E. aggregans-hosted BAC library led to the isolation of a cloned
+      genetic locus putatively derived from an Acidobacteria taxon that contained genes
+      involved in aerobic and anaerobic toluene degradation. These data suggest the
+      important role of plasmids in the spread of toluene degradative capacity and
+      indicate putative novel tmoA genes present in this hydrocarbon-polluted
+      environment.
+FAU - Bouhajja, E
+AU  - Bouhajja E
+AD  - Earth and Life Institute, Laboratoire de Genie Biologique, Universite catholique 
+      de Louvain, Place Croix du Sud 2, boite L7.05.19, 1348, Louvain-la-Neuve,
+      Belgium.
+FAU - McGuire, M
+AU  - McGuire M
+AD  - Department of Biological Sciences, Auburn University, 101 Rouse Life Science
+      Building, Auburn, Alabama, 36849, USA.
+FAU - Liles, M R
+AU  - Liles MR
+AD  - Department of Biological Sciences, Auburn University, 101 Rouse Life Science
+      Building, Auburn, Alabama, 36849, USA.
+FAU - Bataille, G
+AU  - Bataille G
+AD  - Earth and Life Institute, Biodiversity Research Centre, Universite catholique de 
+      Louvain, Place Croix du Sud 4-5, Bte L.7.07.04, 1348, Louvain-la-Neuve, Belgium.
+FAU - Agathos, S N
+AU  - Agathos SN
+AD  - Earth and Life Institute, Laboratoire de Genie Biologique, Universite catholique 
+      de Louvain, Place Croix du Sud 2, boite L7.05.19, 1348, Louvain-la-Neuve,
+      Belgium.
+AD  - School of Life Sciences and Biotechnology, Yachay Tech University, San Miguel de 
+      Urcuqui, Ecuador.
+FAU - George, I F
+AU  - George IF
+AD  - Laboratoire d'Ecologie des Systemes Aquatiques, Universite libre de Bruxelles,
+      Campus de la Plaine CP 221, Boulevard du Triomphe, 1050, Brussels, Belgium.
+      igeorge@ulb.ac.be.
+LA  - eng
+PT  - Journal Article
+DEP - 20161026
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (Environmental Pollutants)
+RN  - 3FPU23BG52 (Toluene)
+RN  - EC 1.- (Mixed Function Oxygenases)
+SB  - IM
+MH  - Cloning, Molecular
+MH  - *Environmental Microbiology
+MH  - Environmental Pollutants/*metabolism
+MH  - Genetic Testing
+MH  - Germany
+MH  - Metagenomics
+MH  - Mixed Function Oxygenases/*analysis/*genetics
+MH  - Nucleic Acid Hybridization
+MH  - Sequence Analysis, DNA
+MH  - Toluene/*metabolism
+OTO - NOTNLM
+OT  - Biodegradation
+OT  - Catabolic gene diversity
+OT  - Expression in heterologous hosts
+OT  - Macroarray
+OT  - Metagenomics
+OT  - Toluene 4-monooxygenase
+EDAT- 2016/10/28 06:00
+MHDA- 2017/01/18 06:00
+CRDT- 2016/10/28 06:00
+PHST- 2016/07/05 00:00 [received]
+PHST- 2016/10/12 00:00 [accepted]
+PHST- 2016/10/06 00:00 [revised]
+PHST- 2016/10/28 06:00 [pubmed]
+PHST- 2017/01/18 06:00 [medline]
+PHST- 2016/10/28 06:00 [entrez]
+AID - 10.1007/s00253-016-7934-5 [doi]
+AID - 10.1007/s00253-016-7934-5 [pii]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2017 Jan;101(2):797-808. doi:
+      10.1007/s00253-016-7934-5. Epub 2016 Oct 26.
+
+PMID- 26903960
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160223
+LR  - 20200930
+IS  - 1664-302X (Print)
+IS  - 1664-302X (Linking)
+VI  - 7
+DP  - 2016
+TI  - Back to the Future of Soil Metagenomics.
+PG  - 73
+LID - 10.3389/fmicb.2016.00073 [doi]
+FAU - Nesme, Joseph
+AU  - Nesme J
+AD  - Environmental Microbial Genomics Group, Laboratoire Ampere, Centre National de la
+      Recherche Scientifique, UMR5005, Institut National de la Recherche Agronomique,
+      USC1407, Ecole Centrale de Lyon, Universite de LyonEcully, France; Research Unit 
+      for Environmental Genomics, Helmholtz Zentrum Munchen Deutsches Forschungszentrum
+      fur Gesundheit und Umwelt (GmbH)Neuherberg, Germany.
+FAU - Achouak, Wafa
+AU  - Achouak W
+AD  - Aix-Marseille Universite, CEA, Centre National de la Recherche Scientifique,
+      Laboratoire d'Ecologie Microbienne de la Rhizosphere et Environnements Extremes, 
+      UMR 7265, Biologie Vegetale et de Microbiologie Environnementales
+      Saint-Paul-lez-Durance, France.
+FAU - Agathos, Spiros N
+AU  - Agathos SN
+AD  - Earth and Life Institute, Catholic University of LouvainLouvain-la-Neuve,
+      Belgium; School of Life Sciences and Biotechnology, Yachay Tech
+      UniversityUrcuqui, Ecuador.
+FAU - Bailey, Mark
+AU  - Bailey M
+AD  - Natural Environment Research Council, Centre for Ecology and Hydrology Oxford,
+      UK.
+FAU - Baldrian, Petr
+AU  - Baldrian P
+AD  - Laboratory of Environmental Microbiology, Institute of Microbiology of the Czech 
+      Academy of Sciences Praha, Czech Republic.
+FAU - Brunel, Dominique
+AU  - Brunel D
+AD  - Institut National de la Recherche Agronomique, US1279, Etude du Polymorphisme des
+      Genomes Vegetaux, CEA, Institut de Genomique, Centre National de Genotypage Evry,
+      France.
+FAU - Frostegard, Asa
+AU  - Frostegard A
+AD  - NMBU Nitrogen Group, Department of Chemistry, Biotechnology and Food Science,
+      Norwegian University of Life Sciences Aas, Norway.
+FAU - Heulin, Thierry
+AU  - Heulin T
+AD  - Aix-Marseille Universite, CEA, Centre National de la Recherche Scientifique,
+      Laboratoire d'Ecologie Microbienne de la Rhizosphere et Environnements Extremes, 
+      UMR 7265, Biologie Vegetale et de Microbiologie Environnementales
+      Saint-Paul-lez-Durance, France.
+FAU - Jansson, Janet K
+AU  - Jansson JK
+AD  - Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory 
+      Richland, WA, USA.
+FAU - Jurkevitch, Edouard
+AU  - Jurkevitch E
+AD  - Department of Plant Pathology and Microbiology, The Faculty of Agriculture, Food 
+      and Environment, The Otto Warburg-Minerva Center in Agricultural Biotechnology,
+      The Hebrew University of Jerusalem Rehovot, Israel.
+FAU - Kruus, Kristiina L
+AU  - Kruus KL
+AD  - Enzymology of Renewable Biomass, VTT, Technical Research Centre of Finland Espoo,
+      Finland.
+FAU - Kowalchuk, George A
+AU  - Kowalchuk GA
+AD  - Ecology and Biodiversity, Institute of Environmental Biology, Utrecht University 
+      Utrecht, Netherlands.
+FAU - Lagares, Antonio
+AU  - Lagares A
+AD  - Departamento de Ciencia Biologicas, Facultad de Ciencias Exactas, Instituto de
+      Biotecnologia y Biologia Molecular, Centro Cientifico Tecnologico-Consejo
+      Nacional de Investigaciones Cientificas y Tecnicas, Universidad Nacional de La
+      Plata La Plata, Argentina.
+FAU - Lappin-Scott, Hilary M
+AU  - Lappin-Scott HM
+AD  - Department of Biosciences, Swansea University Swansea, UK.
+FAU - Lemanceau, Philippe
+AU  - Lemanceau P
+AD  - Institut National de la Recherche Agronomique, UMR 1347, Agroecologie, Universite
+      de Bourgogne Dijon, France.
+FAU - Le Paslier, Denis
+AU  - Le Paslier D
+AD  - CEA/Direction des sciences du vivant/Institut de Genomique. Genoscope, Centre
+      National de la Recherche Scientifiue UMR 8030, Universite d'Evry Val d'Essonne
+      Evry, France.
+FAU - Mandic-Mulec, Ines
+AU  - Mandic-Mulec I
+AD  - Department of Food Science and Technology, Biotechnical Faculty- University of
+      Ljubljana Ljubljana, Slovenia.
+FAU - Murrell, J Colin
+AU  - Murrell JC
+AD  - School of Environmental Sciences, University of East Anglia Norwich, UK.
+FAU - Myrold, David D
+AU  - Myrold DD
+AD  - Department of Crop and Soil Science, Oregon State University Corvallis, OR, USA.
+FAU - Nalin, Renaud
+AU  - Nalin R
+AD  - NALINOV Dremil Lafage, France.
+FAU - Nannipieri, Paolo
+AU  - Nannipieri P
+AD  - Department of Agrifood and Environmental Science, University of Florence
+      Florence, Italy.
+FAU - Neufeld, Josh D
+AU  - Neufeld JD
+AD  - Department of Biology, University of Waterloo Waterloo, ON, Canada.
+FAU - O'Gara, Fergal
+AU  - O'Gara F
+AD  - BIOMERIT Research Centre, School of Microbiology, National University of
+      IrelandCork, Ireland; School of Biomedical Science, Curtin UniversityPerth, WA,
+      Australia.
+FAU - Parnell, John J
+AU  - Parnell JJ
+AD  - National Ecological Observatory Network Boulder, CO, USA.
+FAU - Puhler, Alfred
+AU  - Puhler A
+AD  - Center for Biotechnology, Institute for Genome Research and Systems Biology,
+      Genome Research of Industrial Microorganisms, Bielefeld University Bielefeld,
+      Germany.
+FAU - Pylro, Victor
+AU  - Pylro V
+AD  - Genomics and Computational Biology Group, Rene Rachou Research Centre -
+      CPqRR/FIOCRUZ Belo Horizonte, Brazil.
+FAU - Ramos, Juan L
+AU  - Ramos JL
+AD  - Department of Environmental Protection, Estacion Experimental del Zaidin, Consejo
+      Superior de Investigaciones Cientificas Granada, Spain.
+FAU - Roesch, Luiz F W
+AU  - Roesch LF
+AD  - Federal University of Pampa Sao Gabriel, Brazil.
+FAU - Schloter, Michael
+AU  - Schloter M
+AD  - Research Unit for Environmental Genomics, Helmholtz Zentrum Munchen Deutsches
+      Forschungszentrum fur Gesundheit und Umwelt (GmbH) Neuherberg, Germany.
+FAU - Schleper, Christa
+AU  - Schleper C
+AD  - Archaea Biology and Ecogenomics Division, Department of Ecogenomics and Systems
+      Biology, University of Vienna Vienna, Austria.
+FAU - Sczyrba, Alexander
+AU  - Sczyrba A
+AD  - Center for Biotechnology and Faculty of Technology, Computational Metagenomics,
+      Bielefeld University Bielefeld, Germany.
+FAU - Sessitsch, Angela
+AU  - Sessitsch A
+AD  - Health and Environment Department, Bioresources, AIT Austrian Institute of
+      Technology GmbH Tulln, Austria.
+FAU - Sjoling, Sara
+AU  - Sjoling S
+AD  - School of Natural Sciences and Environmental Studies, Sodertorn University
+      Huddinge, Sweden.
+FAU - Sorensen, Jan
+AU  - Sorensen J
+AD  - Section of Genetics and Microbiology, Department of Plant and Environmental
+      Microbiology, University of Copenhagen Frederiksberg, Denmark.
+FAU - Sorensen, Soren J
+AU  - Sorensen SJ
+AD  - Section of Microbiology, Department of Biology, University of Copenhagen
+      Copenhagen, Denmark.
+FAU - Tebbe, Christoph C
+AU  - Tebbe CC
+AD  - Thunen-Institute of Biodiversity Braunschweig, Germany.
+FAU - Topp, Edward
+AU  - Topp E
+AD  - Agriculture and Agri-Food Canada, Department of Biology, University of Western
+      Ontario London, ON, Canada.
+FAU - Tsiamis, George
+AU  - Tsiamis G
+AD  - Department of Environmental and Natural Resources Management, University of
+      Patras Agrinio, Greece.
+FAU - van Elsas, Jan Dirk
+AU  - van Elsas JD
+AD  - Department of Microbial Ecology, Groningen Institute for Evolutionary Life
+      Sciences, University of Groningen Groningen, Netherlands.
+FAU - van Keulen, Geertje
+AU  - van Keulen G
+AD  - Institute of Life Science, Medical School, Swansea University Swansea, UK.
+FAU - Widmer, Franco
+AU  - Widmer F
+AD  - Molecular Ecology, Institute for Sustainability Sciences, Agroscope Zurich,
+      Switzerland.
+FAU - Wagner, Michael
+AU  - Wagner M
+AD  - Department of Microbiology and Ecosystem Science, Division of Microbial Ecology, 
+      University of Vienna Vienna, Austria.
+FAU - Zhang, Tong
+AU  - Zhang T
+AD  - Environmental Biotechnology Laboratory, Department of Civil Engineering, The
+      University of Hong Kong Hong Kong, China.
+FAU - Zhang, Xiaojun
+AU  - Zhang X
+AD  - Group of Microbial Ecology and Ecogenomics, State Key Laboratory of Microbial
+      Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong
+      University Shanghai, China.
+FAU - Zhao, Liping
+AU  - Zhao L
+AD  - Group of Microbial Ecology and Ecogenomics, State Key Laboratory of Microbial
+      Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong
+      University Shanghai, China.
+FAU - Zhu, Yong-Guan
+AU  - Zhu YG
+AD  - Institute of Urban Environment, Chinese Academy of Sciences Xiamen, China.
+FAU - Vogel, Timothy M
+AU  - Vogel TM
+AD  - Environmental Microbial Genomics Group, Laboratoire Ampere, Centre National de la
+      Recherche Scientifique, UMR5005, Institut National de la Recherche Agronomique,
+      USC1407, Ecole Centrale de Lyon, Universite de Lyon Ecully, France.
+FAU - Simonet, Pascal
+AU  - Simonet P
+AD  - Institute of Life Science, Medical School, Swansea University Swansea, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20160210
+PL  - Switzerland
+TA  - Front Microbiol
+JT  - Frontiers in microbiology
+JID - 101548977
+PMC - PMC4748112
+OTO - NOTNLM
+OT  - metagenomic
+OT  - microbial ecology
+OT  - soil ecology
+OT  - soil microbiology
+OT  - terrestrial microbiology
+EDAT- 2016/02/24 06:00
+MHDA- 2016/02/24 06:01
+CRDT- 2016/02/24 06:00
+PHST- 2015/12/01 00:00 [received]
+PHST- 2016/01/15 00:00 [accepted]
+PHST- 2016/02/24 06:00 [entrez]
+PHST- 2016/02/24 06:00 [pubmed]
+PHST- 2016/02/24 06:01 [medline]
+AID - 10.3389/fmicb.2016.00073 [doi]
+PST - epublish
+SO  - Front Microbiol. 2016 Feb 10;7:73. doi: 10.3389/fmicb.2016.00073. eCollection
+      2016.

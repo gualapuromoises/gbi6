@@ -1,0 +1,44 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name></name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Gray_Reef_Shark</name>
+        <branch_length>0.05197274776110551</branch_length>
+      </clade>
+      <clade>
+        <name>Tiger_Shark</name>
+        <branch_length>0.062255352588814414</branch_length>
+      </clade>
+      <clade>
+        <name></name>
+        <branch_length>0.0036660043888263397</branch_length>
+        <clade>
+          <name></name>
+          <branch_length>0.031674426190617375</branch_length>
+          <clade>
+            <name>Angel_Shark</name>
+            <branch_length>0.117895340331732</branch_length>
+          </clade>
+          <clade>
+            <name></name>
+            <branch_length>0.044906391475396865</branch_length>
+            <clade>
+              <name>Great_White_Shark</name>
+              <branch_length>0.06096910029061149</branch_length>
+            </clade>
+            <clade>
+              <name>Mako_Shark</name>
+              <branch_length>0.06429037423640353</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Hammerhead_Shark</name>
+          <branch_length>0.0664069450210545</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

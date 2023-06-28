@@ -1,0 +1,317 @@
+LOCUS       AB021961                1429 bp    mRNA    linear   ROD 14-APR-2000
+DEFINITION  Mus musculus mutant p53 mRNA, complete cds.
+ACCESSION   AB021961
+VERSION     AB021961.1
+KEYWORDS    P53.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1
+  AUTHORS   Araki,R., Fukumura,R., Fujimori,A., Tatsumi,K. and Abe,M.
+  TITLE     Cell cycle in DNA-PKcs knock-out mice
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1429)
+  AUTHORS   Fujimori,A. and Abe,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-DEC-1998) Masumi Abe, National Institute of
+            Radiological Sciences, Dept. of Biology and Oncology; Anagawa
+            4-9-1, Inage-ku, Chiba, Chiba 263-8555, Japan
+            (E-mail:abemasum@uexs72.nirs.go.jp, Tel:043-206-3219,
+            Fax:043-251-4593)
+FEATURES             Location/Qualifiers
+     source          1..1429
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="SCID"
+                     /db_xref="taxon:10090"
+                     /cell_line="SCGR-11"
+                     /cell_type="fibroblast"
+                     /note="SCGR-11 cell is a derivative of SC3T3 fibroblast
+                     cell line derived from scid (severe combined immune
+                     deficiency) mice."
+     gene            1..1429
+                     /gene="p53"
+     CDS             101..1273
+                     /gene="p53"
+                     /note="Amino acid no.191 leusine (L) in wild-type mouse
+                     P53 is substituted to arginine (R)."
+                     /codon_start=1
+                     /product="P53"
+                     /protein_id="BAA82344.1"
+                     /translation="MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPSPHCMDDL
+                     LLPQDVEEFFEGPSEALRVSGAPAAQDPVTETPGPVAPAPATPWPLSSFVPSQKTYQG
+                     NYGFHLGFLQSGTAKSVMCTYSPPLNKLFCQLAKTCPVQLWVSATPPAGSRVRAMAIY
+                     KKSQHMTEVVRRCPHHERCSDGDGLAPPQHRIRVEGNLYPEYLEDRQTFRHSVVVPYE
+                     PPEAGSEYTTIHYKYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRDSFEVRVCACPG
+                     RDRRTEEENFRKKEVLCPELPPGSAKRALPTCTSASPPQKKKPLDGEYFTLKIRGRKR
+                     FEMFRELNEALELKDAHATEESGDSRAHSSYLKTKKGQSTSRHKKTMVKKVGPDSD"
+     variation       672
+                     /gene="p53"
+                     /note="t in wild-type mouse p53"
+                     /replace="t"
+ORIGIN      
+        1 ttcctggnct gtaggtagcg actacagtta gggggcacct agcattcagg ccctcatcct
+       61 cctccttccc agcagggtgt cacgcttctc cgaagactgg atgactgcca tggaggagtc
+      121 acagtcggat atcagcctcg agctccctct gagccaggag acattttcag gcttatggaa
+      181 actacttcct ccagaagata tcctgccatc acctcactgc atggacgatc tgttgctgcc
+      241 ccaggatgtt gaggagtttt ttgaaggccc aagtgaagcc ctccgagtgt caggagctcc
+      301 tgcagcacag gaccctgtca ccgagacccc tgggccagtg gcccctgccc cagccactcc
+      361 atggcccctg tcatcttttg tcccttctca aaaaacttac cagggcaact atggcttcca
+      421 cctgggcttc ctgcagtctg ggacagccaa gtctgttatg tgcacgtact ctcctcccct
+      481 caataagcta ttctgccagc tggcgaagac gtgccctgtg cagttgtggg tcagcgccac
+      541 acctccagct gggagccgtg tccgcgccat ggccatctac aagaagtcac agcacatgac
+      601 ggaggtcgtg agacgctgcc cccaccatga gcgctgctcc gatggtgatg gcctggctcc
+      661 tccccagcat cgtatccggg tggaaggaaa tttgtatccc gagtatctgg aagacaggca
+      721 gacttttcgc cacagcgtgg tggtacctta tgagccaccc gaggccggct ctgagtatac
+      781 caccatccac tacaagtaca tgtgtaatag ctcctgcatg gggggcatga accgccgacc
+      841 tatccttacc atcatcacac tggaagactc cagtgggaac cttctgggac gggacagctt
+      901 tgaggttcgt gtttgtgcct gccctgggag agaccgccgt acagaagaag aaaatttccg
+      961 caaaaaggaa gtcctttgcc ctgaactgcc cccagggagc gcaaagagag cgctgcccac
+     1021 ctgcacaagc gcctctcccc cgcaaaagaa aaaaccactt gatggagagt atttcaccct
+     1081 caagatccgc gggcgtaaac gcttcgagat gttccgggag ctgaatgagg ccttagagtt
+     1141 aaaggatgcc catgctacag aggagtctgg agacagcagg gctcactcca gctacctgaa
+     1201 gaccaagaag ggccagtcta cttcccgcca taaaaaaaca atggtcaaga aagtggggcc
+     1261 tgactcagac tgactgcctc tgcatcccgt ccccatcacc agcctccccc tctccttgct
+     1321 gtcttatgac ttcagggctg agacacaatc cccaggatcc actcanactg nctgcctntg
+     1381 natccngtcc ccatnaccan cctccccntn tccttgctgn nttatgact
+//
+
+LOCUS       AB020317                1457 bp    mRNA    linear   ROD 09-JUL-1999
+DEFINITION  Mus musculus mRNA for p53, complete cds.
+ACCESSION   AB020317
+VERSION     AB020317.1
+KEYWORDS    p53.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1
+  AUTHORS   Fujimori,A. and Abe,M.
+  TITLE     p53 in 129-SVJ mice
+  JOURNAL   Published Only in Database (1999)
+REFERENCE   2  (bases 1 to 1457)
+  AUTHORS   Fujimori,A. and Abe,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-1998) Masumi Abe, National Institute of
+            Radiological Sciences, Dept. of Biology and Oncology; Anagawa
+            4-9-1, Inage-ku, Chiba, Chiba 263-8555, Japan
+            (E-mail:abemasum@uexs72.nirs.go.jp, Tel:043-206-3219,
+            Fax:043-251-4593)
+FEATURES             Location/Qualifiers
+     source          1..1457
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="129SJ"
+                     /db_xref="taxon:10090"
+                     /tissue_type="lung fibroblast"
+     gene            1..1457
+                     /gene="p53"
+     CDS             102..1274
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="BAA82343.1"
+                     /translation="MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPSPHCMDDL
+                     LLPQDVEEFFEGPSEALRVSGAPAAQDPVTETPGPVAPAPATPWPLSSFVPSQKTYQG
+                     NYGFHLGFLQSGTAKSVMCTYSPPLNKLFCQLAKTCPVQLWVSATPPAGSRVRAMAIY
+                     KKSQHMTEVVRRCPHHERCSDGDGLAPPQHLIRVEGNLYPEYLEDRQTFRHSVVVPYE
+                     PPEAGSEYTTIHYKYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRDSFEVRVCACPG
+                     RDRRTEEENFRKKEVLCPELPPGSAKRALPTCTSASPPQKKKPLDGEYFTLKIRGRKR
+                     FEMFRELNEALELKDAHATEESGDSRAHSSYLKTKKGQSTSRHKKTMVKKVGPDSD"
+ORIGIN      
+        1 cctccttggc tgtaggtagc gactacagtt agggggcacc tagcattcag gccctcatcc
+       61 tcctccttcc cagcagggtg tcacgcttct ccgaagactg gatgactgcc atggaggagt
+      121 cacagtcgga tatcagcctc gagctccctc tgagccagga gacattttca ggcttatgga
+      181 aactacttcc tccagaagat atcctgccat cacctcactg catggacgat ctgttgctgc
+      241 cccaggatgt tgaggagttt tttgaaggcc caagtgaagc cctccgagtg tcaggagctc
+      301 ctgcagcaca ggaccctgtc accgagaccc ctgggccagt ggcccctgcc ccagccactc
+      361 catggcccct gtcatctttt gtcccttctc aaaaaactta ccagggcaac tatggcttcc
+      421 acctgggctt cctgcagtct gggacagcca agtctgttat gtgcacgtac tctcctcccc
+      481 tcaataagct attctgccag ctggcgaaga cgtgccctgt gcagttgtgg gtcagcgcca
+      541 cacctccagc tgggagccgt gtccgcgcca tggccatcta caagaagtca cagcacatga
+      601 cggaggtcgt gagacgctgc ccccaccatg agcgctgctc cgatggtgat ggcctggctc
+      661 ctccccagca tcttatccgg gtggaaggaa atttgtatcc cgagtatctg gaagacaggc
+      721 agacttttcg ccacagcgtg gtggtacctt atgagccacc cgaggccggc tctgagtata
+      781 ccaccatcca ctacaagtac atgtgtaata gctcctgcat ggggggcatg aaccgccgac
+      841 ctatccttac catcatcaca ctggaagact ccagtgggaa ccttctggga cgggacagct
+      901 ttgaggttcg tgtttgtgcc tgccctggga gagaccgccg tacagaagaa gaaaatttcc
+      961 gcaaaaagga agtcctttgc cctgaactgc ccccagggag cgcaaagaga gcgctgccca
+     1021 cctgcacaag cgcctctccc ccgcaaaaga aaaaaccact tgatggagag tatttcaccc
+     1081 tcaagatccg cgggcgtaaa cgcttcgaga tgttccggga gctgaatgag gccttagagt
+     1141 taaaggatgc ccatgctaca gaggagtctg gagacagcag ggctcactcc agctacctga
+     1201 agaccaagaa gggccagtct acttcccgcc ataaaaaaac aatggtcaag aaagtggggc
+     1261 ctgactcaga ctgactgcct ctgcatcccg tccccatcac cagcctcccc ctctccttgc
+     1321 tgtcttatga cttcagggct gagacacaat cccagattcc actcanactg actgcctctg
+     1381 catcccgtcc ccatcaccag cctccccnnc tccttgctgt cttatgactt cagggntgag
+     1441 acanaatccn agatcca
+//
+
+LOCUS       AB559569                2267 bp    mRNA    linear   INV 22-NOV-2011
+DEFINITION  Marsupenaeus japonicus mRNA for p53, complete cds.
+ACCESSION   AB559569
+VERSION     AB559569.1
+KEYWORDS    .
+SOURCE      Penaeus japonicus
+  ORGANISM  Penaeus japonicus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Malacostraca; Eumalacostraca; Eucarida; Decapoda;
+            Dendrobranchiata; Penaeoidea; Penaeidae; Penaeus.
+REFERENCE   1
+  AUTHORS   Yoshimine,M., Mekata,T., Kono,T., Sakai,M. and Itami,T.
+  TITLE     Identification of cDNA encoding p53 gene from kuruma shrimp,
+            Marsupenaeus japonicus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2267)
+  AUTHORS   Yoshimine,M., Mekata,T., Kono,T., Sakai,M. and Itami,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2010) Contact:Maki Yoshimine University of
+            Miyazaki, Faculty of Agriculture; 1-1 nishi gakuenkibanadai,
+            Miyazaki, Miyazaki Pref 889-2192, Japan
+FEATURES             Location/Qualifiers
+     source          1..2267
+                     /organism="Penaeus japonicus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:27405"
+                     /clone="p53"
+     gene            1..2267
+                     /gene="p53"
+     CDS             127..1512
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="BAL15075.1"
+                     /translation="MQQGGMQRSDSELLFGEDEYHLLRDDSLLQRFGSANFHTLLDGP
+                     DVEPPVTEQEVEDQQQQQQQQQQQPQPQQQQQQIQQQQPGQQPAPQIAYPIQNIDNQL
+                     ILTNSHIHGEIFQTVQVQQQPQQQQIQQLQPGQPIPWDSLQTLDTENVEVLPNNNVPV
+                     GGVSAAITLIEGSATSCLADSTLAHSVPSLQPWAGRHKFGISLPTGNKDRNKWCYSQD
+                     LGKLYLCPNVAVPVNVMLEDWVNATITMTPVFKQSCHRTEPVNRCYNCKSIQNCDPNL
+                     AEHVVQIEGEGCEYSFINDRYLVTVPLRPPPPGEVPSTLLIKIMCLTSCVGGPNRRPF
+                     CIVLTLRNSVTGEEIGRQILDIKCCKCPSRDLTNDEKSRTPTAPSTPSVDEEKRTKVR
+                     KLANEIAVGQKRKRPKIKLEPGTDSRMVNIAVPVEYEAEVKSYINKLIAADLIKKWQP
+                     DALMYPEEESN"
+     misc_feature    679..1245
+                     /gene="p53"
+                     /inference="protein motif:PFAM:PF00870"
+                     /note="P53 DNA-binding domain"
+ORIGIN      
+        1 gagtcgggtc tcagacttgg aagtgagagg ttatctagtg acgcgcgcct tgcctaccta
+       61 tggaaacgtg tttgtgtcgt gagctacttg gacatacatg caacgcccta aaataatgag
+      121 ctatttatgc agcaaggcgg gatgcagcgg tcggattcag agctgctgtt cggtgaggat
+      181 gagtaccacc tgctcaggga tgactctctc ctgcaacgct ttggctcggc caatttccat
+      241 accctgttgg acggcccaga tgttgaacct cctgtaaccg agcaggaagt tgaagaccag
+      301 cagcagcaac aacaacaaca gcagcaacaa ccacaaccac aacagcagca gcagcagatt
+      361 cagcaacaac agccgggaca acagcctgct ccacaaattg catatcccat acaaaatatc
+      421 gataaccagt tgatcctgac gaattcgcac atccacggtg agatctttca aactgttcaa
+      481 gttcaacaac agcctcaaca gcagcagatt cagcaactgc agcctggcca gccaatcccg
+      541 tgggattctc ttcaaactct tgacactgaa aatgtcgaag tgttgccaaa caacaatgtg
+      601 ccagtgggtg gagtatcagc tgccatcacc ttgatagaag gctcagccac ttcctgcctg
+      661 gctgactcta ctctggcaca ttcggtgcca tcgctccagc catgggctgg tcgtcacaaa
+      721 ttcggcatat ccctcccaac cggcaacaaa gaccgcaaca agtggtgcta cagtcaggac
+      781 ctgggtaagc tctacctctg cccaaatgtt gctgtaccag tgaatgtgat gttggaagat
+      841 tgggtgaatg ccaccatcac catgacacca gtgttcaagc aaagctgcca ccgtacagaa
+      901 ccagtgaaca ggtgctacaa ctgtaagagt attcaaaact gtgatccaaa cttggccgag
+      961 catgttgtac agattgaggg ggaaggctgt gagtacagct ttatcaatga tagatacttg
+     1021 gttactgtgc ccctccgccc cccaccccca ggggaggtac cttcgacgct cctgatcaag
+     1081 attatgtgtc tgacttcatg cgttggaggc cccaacagac gtccattttg tattgttctc
+     1141 actcttagaa actctgtcac tggtgaagag attggtcggc agatcctaga cattaaatgc
+     1201 tgcaagtgcc catctcgtga tcttactaat gacgagaaga gcaggactcc cacagctccg
+     1261 tctactccct cagtggatga ggaaaagcgg acaaaggtac gaaaattggc caatgaaatt
+     1321 gctgttggtc agaagcgcaa gagaccaaag atcaaattag aaccaggaac agactcccgg
+     1381 atggtgaaca ttgctgttcc agtagagtat gaggccgaag tgaaatctta catcaataag
+     1441 ctcattgctg ccgatctgat caagaagtgg cagcctgacg cactcatgta tcctgaagag
+     1501 gagagtaact aaggtacaac tgatgttacc tgtatgttga tattttatat atatgtaact
+     1561 gaaacacatc aacaccaggt gatctgcaag gaagagtttg gcaccattat gaatttacaa
+     1621 ttgcagttgg aataaagatt aacttaaaga acttcacaat caatctagaa gtgtgttgat
+     1681 aagactttac atattgcatt ccttcaaaga cctgtttcac tgttaggcag taatctttta
+     1741 tatttaagtt tttaaatacc agtgttgaat attgcaaaag aaatgtttag tttaggtaag
+     1801 cataattcat tttaagccat tgttcataat ttgtaatcaa gtgtatttca ttttcttcaa
+     1861 aaagagatct tcattttcat tagttttttt tttttcacag aacattccgg tttatttgaa
+     1921 atttgtgatt aaacacatag tatgtaagtg catgacaaag tgagattgaa tttgattcca
+     1981 aagcaaatct gtgtattggt atttttgtat tttacaaaat aattgttatt gtgtcaagat
+     2041 aaagccattt gctttggaat agtgattgtt ttatattagt caaatagaac atttacttga
+     2101 ttaattatgt cccagagaag atattatata aagtagttag gtaggtaggt gatagcaaat
+     2161 agacttgttt tgactgtcaa ttctttattc tttactagga tcagtttctg tataatattt
+     2221 tgaataaagg ttgacaataa gaaaaaaaaa aaaaaaaaaa aaaaaaa
+//
+
+LOCUS       AB040036                 844 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Macaca fuscata p53 gene, partial cds.
+ACCESSION   AB040036 AB040033 AB040034 AB040035
+VERSION     AB040036.2
+KEYWORDS    .
+SOURCE      Macaca fuscata (Japanese macaque)
+  ORGANISM  Macaca fuscata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1
+  AUTHORS   Oda,T.
+  TITLE     Exons of p53 in Japanese monkey
+  JOURNAL   Published Only in Database (2000)
+REFERENCE   2  (bases 1 to 844)
+  AUTHORS   Oda,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2000) Touta Oda, Oita Medical University, Second
+            Depertment of Internal Medicine; Hasama-machi, Oita 879-5503, Japan
+            (E-mail:TOUTA@oita-med.ac.jp, Tel:+81-975-86-5804(ex.5808),
+            Fax:+81-975-49-4245)
+COMMENT     On or before Mar 1, 2005 this sequence version replaced AB040033.1,
+            AB040034.1, AB040035.1, AB040036.1.
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Macaca fuscata"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9542"
+     gene            <1..>844
+                     /gene="p53"
+     CDS             join(<1..184,285..397,498..607,708..>844)
+                     /gene="p53"
+                     /codon_start=1
+                     /protein_id="BAA92786.1"
+                     /translation="YSPDLNKMFCQLAKTCPVQLWVDSTPPPGSRVRAMAIYKQSQHM
+                     TEVVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYSDDRNTFRHSVVVPYEPPEVGS
+                     DCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTE
+                     EENLRKKGEPCHQLPPGSTKR"
+     exon            1..184
+                     /gene="p53"
+                     /product="p53"
+                     /number=5
+     gap             185..284
+                     /estimated_length=unknown
+     exon            285..397
+                     /gene="p53"
+                     /product="p53"
+                     /number=6
+     gap             398..497
+                     /estimated_length=unknown
+     exon            498..607
+                     /gene="p53"
+                     /product="p53"
+                     /number=7
+     gap             608..707
+                     /estimated_length=unknown
+     exon            708..844
+                     /gene="p53"
+                     /product="p53"
+                     /number=8
+ORIGIN      
+        1 tactcccctg acctcaacaa gatgttttgc cagctggcca agacctgccc cgtgcagcta
+       61 tgggttgatt ccacaccccc acccggcagc cgcgtccgcg ccatggccat ctacaagcag
+      121 tcacagcaca tgacggaggt cgtgaggcgc tgcccccacc atgagcgctg ctcagacagc
+      181 gatgnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      241 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnngactgg cccctcctca
+      301 gcaccttatc cgagtggaag gaaatttgcg tgtggagtat tcggatgaca gaaacacttt
+      361 tcgacatagt gtggtggtgc cctatgagcc gcctgagnnn nnnnnnnnnn nnnnnnnnnn
+      421 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      481 nnnnnnnnnn nnnnnnngtt ggttctgact gtaccaccat ccactacaac tacatgtgta
+      541 acagttcctg catgggcggc atgaaccgga ggcccatcct taccattatc acactggaag
+      601 actccagnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      661 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnntgg taatctactg
+      721 ggacggaaca gctttgaggt gcgagtttgt gcctgtcctg ggagagaccg gcgcacagag
+      781 gaagagaatc tccgcaagaa aggggagcct tgccaccagc tgccccctgg gagcactaag
+      841 cgag
+//
+
