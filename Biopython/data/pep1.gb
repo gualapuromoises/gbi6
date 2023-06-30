@@ -1,0 +1,69 @@
+LOCUS       AH001150                 621 bp    DNA     linear   MAM 01-AUG-2016
+DEFINITION  Bos taurus pepsin gene, complete cds.
+ACCESSION   AH001150 M23163 M23165 M23167
+VERSION     AH001150.2
+KEYWORDS    pepsin.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lu,Q., Wolfe,K.H. and McConnell,D.J.
+  TITLE     Molecular cloning of multiple bovine aspartyl protease genes
+  JOURNAL   Gene 71 (1), 135-146 (1988)
+   PUBMED   3145907
+COMMENT     On or before Aug 1, 2016 this sequence version replaced M23163.1,
+            M23165.1, M23167.1, AH001150.1.
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Bos taurus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9913"
+     intron          <1..10
+                     /note="PEP intron H"
+     CDS             join(11..127,248..392,513..611)
+                     /note="pepsin"
+                     /codon_start=2
+                     /protein_id="AAA30691.1"
+                     /translation="DDESGSVVMFGGIDSSYYTGSLNWVPVSYEGYWQITLDSITMDG
+                     ETIACADSCQAIVDTGTSLLAGPTSAISNIQSYIGASENSDGEMIVSCSSMYSLPNIV
+                     FTINGVQYPVPASAYILE"
+     exon            11..>127
+                     /note="pepsin"
+                     /number=6
+     intron          128..>137
+                     /note="PEP intron I"
+     gap             138..237
+                     /estimated_length=unknown
+     intron          <238..247
+                     /note="PEP intron I"
+     exon            <248..392
+                     /note="pepsin"
+                     /number=7
+     intron          393..>402
+                     /note="PEP intron J (no splice consensus at 156);
+                     putative"
+     gap             403..502
+                     /estimated_length=unknown
+     intron          <503..512
+                     /note="PEP intron J"
+     exon            <513..611
+                     /note="pepsin"
+                     /number=8
+     intron          612..>621
+                     /note="PEP intron K"
+ORIGIN      
+        1 ttttccacag tgatgacgag agtggcagcg ttgtgatgtt tggtggcatt gattcttctt
+       61 actacactgg aagcctgaac tgggtgcctg tttcttatga gggctactgg cagatcactc
+      121 tggacaggtg agagtgcnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      181 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnntcc
+      241 tacttagcat caccatggat ggagagacca tcgcttgtgc tgatagctgc caggccattg
+      301 tggacacggg cacctctctg ctggctggcc ccaccagcgc catttccaac atccagagct
+      361 acattggagc ttctgagaac tctgatggcg aggcaagtcc agnnnnnnnn nnnnnnnnnn
+      421 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      481 nnnnnnnnnn nnnnnnnnnn nncaccttcc agatgatcgt cagctgctca tccatgtact
+      541 ccctgcccaa cattgtcttc accatcaatg gagtccagta ccctgtgccc gccagtgcct
+      601 acatcctgga ggtaaggtat c
+//
+

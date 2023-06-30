@@ -1,0 +1,291 @@
+LOCUS       AH001150                 621 bp    DNA     linear   MAM 01-AUG-2016
+DEFINITION  Bos taurus pepsin gene, complete cds.
+ACCESSION   AH001150 M23163 M23165 M23167
+VERSION     AH001150.2
+KEYWORDS    pepsin.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Lu,Q., Wolfe,K.H. and McConnell,D.J.
+  TITLE     Molecular cloning of multiple bovine aspartyl protease genes
+  JOURNAL   Gene 71 (1), 135-146 (1988)
+   PUBMED   3145907
+COMMENT     On or before Aug 1, 2016 this sequence version replaced M23163.1,
+            M23165.1, M23167.1, AH001150.1.
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Bos taurus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9913"
+     intron          <1..10
+                     /note="PEP intron H"
+     CDS             join(11..127,248..392,513..611)
+                     /note="pepsin"
+                     /codon_start=2
+                     /protein_id="AAA30691.1"
+                     /translation="DDESGSVVMFGGIDSSYYTGSLNWVPVSYEGYWQITLDSITMDG
+                     ETIACADSCQAIVDTGTSLLAGPTSAISNIQSYIGASENSDGEMIVSCSSMYSLPNIV
+                     FTINGVQYPVPASAYILE"
+     exon            11..>127
+                     /note="pepsin"
+                     /number=6
+     intron          128..>137
+                     /note="PEP intron I"
+     gap             138..237
+                     /estimated_length=unknown
+     intron          <238..247
+                     /note="PEP intron I"
+     exon            <248..392
+                     /note="pepsin"
+                     /number=7
+     intron          393..>402
+                     /note="PEP intron J (no splice consensus at 156);
+                     putative"
+     gap             403..502
+                     /estimated_length=unknown
+     intron          <503..512
+                     /note="PEP intron J"
+     exon            <513..611
+                     /note="pepsin"
+                     /number=8
+     intron          612..>621
+                     /note="PEP intron K"
+ORIGIN      
+        1 ttttccacag tgatgacgag agtggcagcg ttgtgatgtt tggtggcatt gattcttctt
+       61 actacactgg aagcctgaac tgggtgcctg tttcttatga gggctactgg cagatcactc
+      121 tggacaggtg agagtgcnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      181 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnntcc
+      241 tacttagcat caccatggat ggagagacca tcgcttgtgc tgatagctgc caggccattg
+      301 tggacacggg cacctctctg ctggctggcc ccaccagcgc catttccaac atccagagct
+      361 acattggagc ttctgagaac tctgatggcg aggcaagtcc agnnnnnnnn nnnnnnnnnn
+      421 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      481 nnnnnnnnnn nnnnnnnnnn nncaccttcc agatgatcgt cagctgctca tccatgtact
+      541 ccctgcccaa cattgtcttc accatcaatg gagtccagta ccctgtgccc gccagtgcct
+      601 acatcctgga ggtaaggtat c
+//
+
+LOCUS       JQ043215                1173 bp    mRNA    linear   VRT 07-FEB-2012
+DEFINITION  Oreochromis niloticus pepsin mRNA, partial cds.
+ACCESSION   JQ043215
+VERSION     JQ043215.1
+KEYWORDS    .
+SOURCE      Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1173)
+  AUTHORS   Li,B.
+  TITLE     Molecular cloning of pepsin of Nile tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1173)
+  AUTHORS   Li,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2011) Institute of Aquatic Economic Animals and
+            Guangdong Provincial Key Laboratory for Aquatic Economic Animals,
+            Sun Yat-Sen University, 135 West Xingang Road, Guangzhou, Guangdong
+            510275, China
+FEATURES             Location/Qualifiers
+     source          1..1173
+                     /organism="Oreochromis niloticus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8128"
+     CDS             <1..1021
+                     /codon_start=2
+                     /product="pepsin"
+                     /protein_id="AEZ51819.1"
+                     /translation="VEEGKKTHPYNPAAKFYSSGTESMTNDADLSYYGTISIGTPPQS
+                     FSVIFDTGSSNLWVPSVYCNSTACENHNQFNPSQSSTFQWGNQSLSIQYGTGSMTGFL
+                     GSDTVEVGGISVANQVFGLSQTEASFMTYMQADGILGLAFQSIASDNVVPVFNTMITE
+                     GLVSEPIFSVYLSGNSEQGSEVVFGGTDSTHYTGTITWIPLSSATYWQINMDSVTING
+                     QTVACSGGCQAIIDTGTSLIVGPTTDINNLNSWVGASTDQSGDAIVNCQNIPSMPDVT
+                     FTLNGNAFTVPASAYVSQSSSGCMTGFGQGGTMQLWILGDVFIREYYAVFNAQTQNIG
+                     LAKSA"
+ORIGIN      
+        1 tgtggaggag ggcaagaaga ctcacccata caacccagca gccaagttct acagcagtgg
+       61 cactgagtcc atgaccaatg acgctgactt gtcttactat ggtacgatct ccattggaac
+      121 ccctcctcag tccttctctg tcatttttga caccggttcc tccaacttgt gggtcccttc
+      181 agtgtattgc aacagtacag cctgtgagaa ccacaaccaa ttcaacccat ctcagtcatc
+      241 caccttccag tggggtaacc agtctctgtc catccagtac gggactggca gcatgactgg
+      301 gtttctgggc agcgacactg ttgaggtggg cggcatctct gtggccaacc aggtgtttgg
+      361 attgagccag acagaagctt ctttcatgac ttacatgcag gctgatggga tcttaggact
+      421 ggccttccag agcattgcct ctgacaatgt tgtaccagtt tttaacacca tgatcactga
+      481 ggggctggtg tcagagccca ttttctcagt ctacctgagc ggcaatagtg aacagggcag
+      541 tgaggtggtc tttggtggta ctgacagcac ccactacacc ggaacaatca cctggatccc
+      601 tctgtcttct gccacctact ggcagatcaa catggacagt gttaccatca acggacagac
+      661 tgtagcctgc tctggcgggt gccaggccat catcgacact ggcacctccc tgattgttgg
+      721 cccaaccact gacatcaaca atctgaatag ctgggttgga gcctcaaccg accagtcagg
+      781 agatgctata gtgaactgcc agaacatccc gagcatgcct gatgtcactt tcactctcaa
+      841 tggaaacgcc ttcacagtcc ctgcatctgc ctatgtttct cagagctcct ctggttgtat
+      901 gactggcttt ggtcagggtg gcaccatgca gctctggatc ttgggagatg ttttcatccg
+      961 ggaatactat gccgtcttta atgcccagac ccagaacatt ggtctggcca agtcagcgta
+     1021 atgaaatcag taatttcata aatactccaa gcatgtattt taatggcatg ggagagttca
+     1081 tgcaaacagg agtttgtgga aaacgtgcat gtggacatgt tgtagctgcc tttacattaa
+     1141 acagattata gcaacgcaaa aaaaaaaaaa aaa
+//
+
+LOCUS       MT006352                 133 bp    mRNA    linear   VRT 28-FEB-2021
+DEFINITION  Pseudoplatystoma punctifer Pepsin mRNA, partial cds.
+ACCESSION   MT006352
+VERSION     MT006352.1
+KEYWORDS    .
+SOURCE      Pseudoplatystoma punctifer
+  ORGANISM  Pseudoplatystoma punctifer
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pimelodidae; Pseudoplatystoma.
+REFERENCE   1  (bases 1 to 133)
+  AUTHORS   Castro-Ruiz,D., Andree,K.B., Gisbert,E. and Darias,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JAN-2020) UMR MARBEEC, IRD, Campus Triolet - Bat 24,
+            MONTPELLIER 34095, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Pseudoplatystoma punctifer"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:645124"
+                     /country="Peru"
+     CDS             <1..>133
+                     /codon_start=2
+                     /product="Pepsin"
+                     /protein_id="QPH36779.1"
+                     /translation="GLVQDYFSVYLSSNSQTGSEVIFGGSNPNHYTGSLVWIPLSSET
+                     "
+ORIGIN      
+        1 gggtcttgtg caggattact tctctgtcta cctaagcagc aactctcaga ctggcagtga
+       61 ggtcattttc ggtggatcaa accccaacca ctacactggt tctctggtct ggatccctct
+      121 gtcatctgag aca
+//
+
+LOCUS       KY235165                 244 bp    mRNA    linear   VRT 29-MAY-2017
+DEFINITION  Clarias batrachus pepsin mRNA, partial cds.
+ACCESSION   KY235165
+VERSION     KY235165.1
+KEYWORDS    .
+SOURCE      Clarias batrachus (walking catfish)
+  ORGANISM  Clarias batrachus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 244)
+  AUTHORS   Mir,I.N., Irfan,A.B., Sushila,N., Jaffer,Y.D., Ande,M.P.,
+            Gireesh,B.P., Srivastava,P.P. and Jain,K.K.
+  TITLE     Identification and characterization of digestive enzymes in catfish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 244)
+  AUTHORS   Mir,I.N., Irfan,A.B., Sushila,N., Jaffer,Y.D., Ande,M.P.,
+            Gireesh,B.P., Srivastava,P.P. and Jain,K.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-NOV-2016) Fish Nutrition and Feed Technology, Central
+            Institute of Fisheries Education, Versova, Mumbai, Maharashtra
+            400061, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..244
+                     /organism="Clarias batrachus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:59899"
+                     /tissue_type="GI tract"
+                     /country="India"
+     CDS             <1..>244
+                     /codon_start=1
+                     /product="pepsin"
+                     /protein_id="ART46311.1"
+                     /translation="FNPTLSSTSQTNNQALSIQYGTGSMTGYLGYDTVTVGGISVQNQ
+                     MFGLSETEAPFMASMAADGILGLAYQSIASDNVTPVF"
+ORIGIN      
+        1 ttcaacccaa cactatccag cacttcccag accaacaacc aggctctgtc tattcagtat
+       61 ggcactggca gcatgaccgg atacctgggt tatgacactg tgacggttgg tggaatctca
+      121 gtgcaaaatc agatgtttgg actgagtgag actgaggctc cctttatggc cagcatggca
+      181 gcagatggca tcctgggtct ggcctaccaa tccatcgctt ctgataatgt cactcccgtc
+      241 tttg
+//
+
+LOCUS       KC195968                1232 bp    mRNA    linear   VRT 09-NOV-2016
+DEFINITION  Chelon labrosus pepsin mRNA, complete cds.
+ACCESSION   KC195968
+VERSION     KC195968.2
+KEYWORDS    .
+SOURCE      Chelon labrosus (thicklip grey mullet)
+  ORGANISM  Chelon labrosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Mugilomorphae; Mugilidae; Chelon.
+REFERENCE   1  (bases 1 to 1232)
+  AUTHORS   Pujante,I.M., Martos-Sitcha,J.A., Mancera,J.M., Moyano,F.J. and
+            Martinez-Rodriguez,G.
+  TITLE     Influence of environmental salinity on the activity and gene
+            expression of digestive proteases in the thick-lipped grey mullet
+            (Chelon labrosus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1232)
+  AUTHORS   Pujante,I.M., Martos-Sitcha,J.A., Mancera,J.M., Moyano,F.J. and
+            Martinez-Rodriguez,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-2012) Marine Biology and Aquaculture, Instituto
+            de Ciencias Marinas de Andalucia (ICMAN-CSIC), Avda. Republica
+            Saharaui 2, Campus Universitario Puerto Real, Puerto Real, Cadiz
+            11510, Spain
+REFERENCE   3  (bases 1 to 1232)
+  AUTHORS   Pujante,I.M., Martos-Sitcha,J.A., Mancera,J.M., Moyano,F.J. and
+            Martinez-Rodriguez,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2016) Marine Biology and Aquaculture, Instituto
+            de Ciencias Marinas de Andalucia (ICMAN-CSIC), Avda. Republica
+            Saharaui 2, Campus Universitario Puerto Real, Puerto Real, Cadiz
+            11510, Spain
+  REMARK    Sequence update by submitter
+COMMENT     On Nov 9, 2016 this sequence version replaced KC195968.1.
+FEATURES             Location/Qualifiers
+     source          1..1232
+                     /organism="Chelon labrosus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:48171"
+     CDS             15..1145
+                     /note="enzyme; zymogen; pepsinogen; released by chief
+                     cells in the stomach and degrades food proteins into
+                     peptides"
+                     /codon_start=1
+                     /product="pepsin"
+                     /protein_id="AHZ33698.2"
+                     /translation="MKWLVVLSALVAFSECGVKIPLRKGKTARETLKEKGLWEEYRKK
+                     HPYSPMVKFYQDGIEPMTNDADLSYFGVITIGTPPQSFSVIFDSGSSNLWVPSVSCSS
+                     AACKNHNKFNPERSSSFKRNGQSLSIQYGTGSKTGYLGSDTVWWGGITVANQVFGLSE
+                     TEATFITYMQADGILGLAFQSIAADYVVPVFYNKIKQGLVSQPMFSVYLSGNSEESSE
+                     VFFGGVDSSHYTGEIKWIPLSSDTYWQISMDSVTINGQTVACSGGCQAIIDTGTSMIV
+                     GPTTDINNINSWVGASTDQYGDAIVNCQNIQSMPEVSFTLNGHAFTVPAPAYVSQNSG
+                     SCITGFGQGGTSQLWILGDVFIREYYAIFNLKDQYIGLAKSV"
+ORIGIN      
+        1 ggcacgaggt aaagatgaag tggctcgtgg ttctgtcagc cctcgtggct ttctccgaat
+       61 gcggcgttaa gattcccctg agaaagggaa agacggccag agagaccctg aaggagaaag
+      121 gattgtggga agagtacagg aagaagcatc catacagccc aatggtcaag ttctaccagg
+      181 atggtattga gcccatgacc aatgacgctg atttgtccta ctttggtgtg atcacaattg
+      241 gaacccctcc tcagtccttc agcgtcatct ttgactccgg ctcctccaac ctgtgggtcc
+      301 cctcagtctc ctgctccagc gcggcctgca agaaccacaa taaatttaac ccagagcggt
+      361 cctcctcctt caaaagaaac ggccagtccc tgtccatcca gtatggcact ggcagcaaga
+      421 ctggatatct aggcagcgac accgtatggt ggggcggcat cactgtggcc aaccaagtgt
+      481 ttggacttag cgagacagag gctaccttca ttacttacat gcaggctgat ggcatcctgg
+      541 gactggcctt ccagagcatt gccgctgact atgttgtgcc cgtcttttac aacaagatta
+      601 agcagggact ggtttctcaa cccatgttct ctgtctacct gagcggtaac agtgaagaga
+      661 gcagtgaggt gttttttggt ggcgttgaca gttcccacta cactggagaa atcaaatgga
+      721 tccctctgtc ctctgatacc tactggcaga tcagcatgga cagtgttacc atcaatggac
+      781 agaccgtggc ctgctctgga ggctgccagg ccatcattga cactggcacc tctatgatcg
+      841 ttggtccaac cactgacatc aacaacatca actcctgggt tggagcctca acggaccagt
+      901 acggagatgc tatagtgaac tgccagaaca ttcagagcat gcctgaagtc agtttcactc
+      961 tcaacggaca tgccttcacc gtccctgcac ctgcctacgt ctctcagaac tccggcagct
+     1021 gcatcactgg ttttggccag ggtggcacct cccagctctg gatcctggga gatgtcttca
+     1081 tcagggagta ctacgccatc tttaatctca aggatcaata tattggtcta gccaaatctg
+     1141 tgtaatcaag aaatacttat aaatacactg taaatgttac aaatagagac actgttatgt
+     1201 tgtggctgcc tttgcatgga actgatgaaa gc
+//
+
